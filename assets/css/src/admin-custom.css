@@ -1,0 +1,15 @@
+
+
+/*Redux Plugin*/
+.redux-container .form-table th {
+     padding: 1.25em 0.625em 1.25em 0 !important;
+}
+
+.redux-container .form-table td {
+     margin-bottom: 0.5625em !important;
+     padding: 0.9375em 0.625em !important;
+}
+
+.redux-main .redux-field-container {
+     padding: 1.25em 0 !important;
+}

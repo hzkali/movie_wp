@@ -1,0 +1,4103 @@
+# Copyright (C) 2022 Streamit
+# This file is distributed under the same license as the Streamit package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Streamit\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: Streamit\n"
+"Report-Msgid-Bugs-To: Streamit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../streamit/comments.php:44
+msgid "Comments are closed."
+msgstr ""
+
+#: ../streamit/comments.php:50
+msgid "Post Comment"
+msgstr ""
+
+#: ../streamit/comments.php:51
+msgid "Your email address will not be published. Required fields are marked *"
+msgstr ""
+
+#: ../streamit/comments.php:53
+msgid "Comment"
+msgstr ""
+
+#: ../streamit/comments.php:60
+msgid "Name *"
+msgstr ""
+
+#: ../streamit/comments.php:65
+msgid "Email *"
+msgstr ""
+
+#: ../streamit/comments.php:70
+msgid "Website"
+msgstr ""
+
+#: ../streamit/comments.php:76, ../streamit/woocommerce/single-product-reviews.php:134
+msgid "Save my name, email, and website in this browser for the next time I comment."
+msgstr ""
+
+#: ../streamit/functions.php:128
+msgid "%s rating"
+msgstr ""
+
+#: ../streamit/header-shop.php:87, ../streamit/header.php:88
+msgid "loader"
+msgstr ""
+
+#: ../streamit/header-shop.php:130, ../streamit/header.php:159, ../streamit/template-parts/maintenance/header.php:44
+msgid "Skip to content"
+msgstr ""
+
+#: ../streamit/search.php:39
+msgid "streamit_datapass"
+msgstr ""
+
+#: ../streamit/search.php:39
+msgid "streamit_datapass_blog"
+msgstr ""
+
+#: ../streamit/search.php:122, ../streamit/single-movie.php:880
+msgid "Upcoming Movies"
+msgstr ""
+
+#: ../streamit/search.php:159, ../streamit/single-episode.php:388, ../streamit/single-movie.php:447, ../streamit/single-movie.php:613, ../streamit/single-movie.php:749, ../streamit/single-movie.php:917, ../streamit/single-person.php:130, ../streamit/single-person.php:237, ../streamit/single-person.php:301, ../streamit/single-person.php:378, ../streamit/single-tv-show.php:369, ../streamit/single-tv-show.php:445, ../streamit/single-video.php:369, ../streamit/inc/Helper/Component.php:388
+msgid "streamit"
+msgstr ""
+
+#: ../streamit/search.php:173, ../streamit/single-episode-sources.php:59, ../streamit/single-episode-sources.php:52, ../streamit/single-movie-sources.php:58, ../streamit/single-movie-sources.php:51, ../streamit/single-movie.php:762, ../streamit/single-tv-show-sources.php:58, ../streamit/single-tv-show-sources.php:51, ../streamit/inc/Helper/Component.php:463, ../streamit/template-parts/content/entry_archive.php:48, ../streamit/template-parts/content/entry_search.php:48, ../streamit/inc/Redux_Framework/Options/Page.php:655
+msgid "Play Now"
+msgstr ""
+
+#: ../streamit/searchform.php:16
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: ../streamit/searchform.php:18
+msgctxt "placeholder"
+msgid "Search"
+msgstr ""
+
+#: ../streamit/searchform.php:24, ../streamit/masvideos/search-form.php:29, ../streamit/template-parts/content/error.php:44
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: ../streamit/sidebar.php:29
+msgid "Asides"
+msgstr ""
+
+#: ../streamit/single-episode-reviews.php:49, ../streamit/single-movie-reviews.php:47, ../streamit/single-tv-show-reviews.php:49, ../streamit/woocommerce/single-product-reviews.php:67
+msgid "There are no reviews yet."
+msgstr ""
+
+#: ../streamit/single-episode-reviews.php:59, ../streamit/single-episode-reviews.php:72, ../streamit/single-movie-reviews.php:68, ../streamit/single-movie-reviews.php:70, ../streamit/single-tv-show-reviews.php:70, ../streamit/single-tv-show-reviews.php:72, ../streamit/single-video-reviews.php:71, ../streamit/single-video-reviews.php:73, ../streamit/woocommerce/single-product-reviews.php:84
+msgid "Submit"
+msgstr ""
+
+#: ../streamit/single-episode-reviews.php:60, ../streamit/single-movie-reviews.php:57, ../streamit/single-tv-show-reviews.php:59, ../streamit/woocommerce/single-product-reviews.php:78
+msgid "Add a review"
+msgstr ""
+
+#: ../streamit/single-episode-reviews.php:60, ../streamit/single-movie-reviews.php:57, ../streamit/single-tv-show-reviews.php:59, ../streamit/woocommerce/single-product-reviews.php:78
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../streamit/single-episode-reviews.php:61, ../streamit/single-movie-reviews.php:58, ../streamit/single-tv-show-reviews.php:60, ../streamit/single-video-reviews.php:61, ../streamit/woocommerce/single-product-reviews.php:80
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../streamit/single-episode-reviews.php:66, ../streamit/single-movie-reviews.php:63, ../streamit/single-tv-show-reviews.php:65, ../streamit/single-video-reviews.php:66, ../streamit/woocommerce/single-product-reviews.php:105, ../streamit/woocommerce/myaccount/my-address.php:96, ../streamit/woocommerce/order/order-details-customer.php:51
+msgid "Name"
+msgstr ""
+
+#: ../streamit/single-episode-reviews.php:68, ../streamit/single-movie-reviews.php:65, ../streamit/single-tv-show-reviews.php:67, ../streamit/single-video-reviews.php:68, ../streamit/woocommerce/share.php:75, ../streamit/woocommerce/single-product-reviews.php:111, ../streamit/inc/Redux_Framework/Options/Header.php:518
+msgid "Email"
+msgstr ""
+
+#: ../streamit/single-episode-reviews.php:80, ../streamit/single-movie-reviews.php:77, ../streamit/single-tv-show-reviews.php:79
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: ../streamit/single-episode-reviews.php:84, ../streamit/single-movie-reviews.php:81, ../streamit/single-tv-show-reviews.php:83, ../streamit/woocommerce/single-product-reviews.php:143
+msgid "Your rating"
+msgstr ""
+
+#: ../streamit/single-episode-reviews.php:85, ../streamit/single-movie-reviews.php:82, ../streamit/single-tv-show-reviews.php:84, ../streamit/woocommerce/single-product-reviews.php:144
+msgid "Rate&hellip;"
+msgstr ""
+
+#: ../streamit/single-episode-reviews.php:94, ../streamit/single-movie-reviews.php:91, ../streamit/single-tv-show-reviews.php:93, ../streamit/woocommerce/single-product-reviews.php:153
+msgid "Your review"
+msgstr ""
+
+#: ../streamit/single-episode-sources.php:29, ../streamit/single-movie-sources.php:29, ../streamit/single-tv-show-sources.php:29
+msgid "Links"
+msgstr ""
+
+#: ../streamit/single-episode-sources.php:30, ../streamit/single-movie-sources.php:30, ../streamit/single-tv-show-sources.php:30
+msgid "Quality"
+msgstr ""
+
+#: ../streamit/single-episode-sources.php:31, ../streamit/single-movie-sources.php:31, ../streamit/single-tv-show-sources.php:31
+msgid "Language"
+msgstr ""
+
+#: ../streamit/single-episode-sources.php:32, ../streamit/single-movie-sources.php:32, ../streamit/single-tv-show-sources.php:32
+msgid "Player"
+msgstr ""
+
+#: ../streamit/single-episode-sources.php:33, ../streamit/single-movie-sources.php:33, ../streamit/single-tv-show-sources.php:33
+msgid "Date Added"
+msgstr ""
+
+#: ../streamit/single-episode.php:111
+msgid "(Imdb)"
+msgstr ""
+
+#: ../streamit/single-episode.php:129, ../streamit/single-video.php:73
+msgid "0 views"
+msgstr ""
+
+#: ../streamit/single-episode.php:279, ../streamit/single-movie.php:327, ../streamit/single-tv-show.php:305, ../streamit/single-video.php:248, ../streamit/woocommerce/single-product/tabs/description.php:22
+msgid "Description"
+msgstr ""
+
+#: ../streamit/single-episode.php:287, ../streamit/single-movie.php:334, ../streamit/single-tv-show.php:316, ../streamit/single-tv-show.php:498
+msgid "Rate & Review"
+msgstr ""
+
+#: ../streamit/single-episode.php:296, ../streamit/single-movie.php:341
+msgid "Sources"
+msgstr ""
+
+#: ../streamit/single-episode.php:310, ../streamit/single-episode.php:310, ../streamit/single-movie.php:355, ../streamit/single-movie.php:355, ../streamit/single-video.php:270, ../streamit/single-video.php:270
+msgid "More..."
+msgstr ""
+
+#: ../streamit/single-episode.php:310, ../streamit/single-movie.php:355, ../streamit/single-video.php:270
+msgid "Less..."
+msgstr ""
+
+#: ../streamit/single-episode.php:347, ../streamit/inc/Redux_Framework/Options/Page.php:416
+msgid "Latest Episodes"
+msgstr ""
+
+#: ../streamit/single-movie.php:279, ../streamit/single-tv-show.php:221, ../streamit/single-video.php:199, ../streamit/template-parts/content/entry_taxonomies.php:35
+msgid "Tags:"
+msgstr ""
+
+#: ../streamit/single-movie.php:415, ../streamit/inc/class-tgm-plugin-activation.php:2373
+msgid "Recommended"
+msgstr ""
+
+#: ../streamit/single-movie.php:569, ../streamit/single-movie.php:869, ../streamit/single-video.php:326
+msgid "iq-rtl-direction "
+msgstr ""
+
+#: ../streamit/single-movie.php:580, ../streamit/inc/Redux_Framework/Options/Page.php:237
+msgid "Related Movies"
+msgstr ""
+
+#: ../streamit/single-movie.php:723, ../streamit/inc/Redux_Framework/Options/Page.php:163
+msgid "Related Videos"
+msgstr ""
+
+#: ../streamit/single-person.php:54
+msgid "Personal Info"
+msgstr ""
+
+#: ../streamit/single-person.php:90, ../streamit/inc/Redux_Framework/Options/Page.php:755
+msgid "Most View"
+msgstr ""
+
+#: ../streamit/single-person.php:160, ../streamit/inc/Redux_Framework/Options/Page.php:770
+msgid "Acting"
+msgstr ""
+
+#: ../streamit/single-person.php:166, ../streamit/inc/Redux_Framework/Options/Page.php:269, ../streamit/inc/Redux_Framework/Options/Page.php:354, ../streamit/inc/Redux_Framework/Options/Page.php:388
+msgid "All"
+msgstr ""
+
+#: ../streamit/single-person.php:171
+msgid "Movies"
+msgstr ""
+
+#: ../streamit/single-person.php:176
+msgid "Tv Shows"
+msgstr ""
+
+#: ../streamit/single-person.php:243, ../streamit/single-person.php:307, ../streamit/single-person.php:384, ../streamit/inc/Helper/Component.php:394
+msgid "as"
+msgstr ""
+
+#: ../streamit/single-tv-show.php:100
+msgid "Imdb"
+msgstr ""
+
+#: ../streamit/single-tv-show.php:125
+msgid "No seasons released yet"
+msgstr ""
+
+#: ../streamit/single-tv-show.php:123
+msgid " Seasons"
+msgstr ""
+
+#: ../streamit/single-tv-show.php:121
+msgid " Season"
+msgstr ""
+
+#: ../streamit/single-tv-show.php:149
+msgid "Watch latest Episode"
+msgstr ""
+
+#: ../streamit/single-tv-show.php:281
+msgid "Episodes"
+msgstr ""
+
+#: ../streamit/single-tv-show.php:296
+msgid "Featured Clips"
+msgstr ""
+
+#: ../streamit/single-video-reviews.php:50
+msgid "There are no comments yet."
+msgstr ""
+
+#: ../streamit/single-video-reviews.php:60, ../streamit/single-video.php:255, ../streamit/inc/Redux_Framework/Options/Blog.php:126, ../streamit/inc/Redux_Framework/Options/Page.php:446
+msgid "Comments"
+msgstr ""
+
+#: ../streamit/single-video-reviews.php:60
+msgid "Be the first to comment &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../streamit/single-video-reviews.php:80
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: ../streamit/single-video-reviews.php:83
+msgid "Your comment"
+msgstr ""
+
+#: ../streamit/single-video.php:337
+msgid "Upcoming videos"
+msgstr ""
+
+#: ../streamit/streamit-full-width.php:3
+msgid "Streamit Full Width"
+msgstr ""
+
+#. translators: 1: required WP version number, 2: required PHP version number, 3: available WP version number, 4: available PHP version number
+#: ../streamit/inc/back-compat.php:25
+msgid "Streamit requires at least WordPress version %1$s and PHP version %2$s. You are running versions %3$s and %3$s respectively. Please update and try again."
+msgstr ""
+
+#. translators: 1: required WP version number, 2: available WP version number
+#: ../streamit/inc/back-compat.php:30
+msgid "Streamit requires at least WordPress version %1$s. You are running version %2$s. Please update and try again."
+msgstr ""
+
+#. translators: 1: required PHP version number, 2: available PHP version number
+#: ../streamit/inc/back-compat.php:35
+msgid "Streamit requires at least PHP version %1$s. You are running version %2$s. Please update and try again."
+msgstr ""
+
+#: ../streamit/inc/class-tgm-plugin-activation.php:346
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../streamit/inc/class-tgm-plugin-activation.php:347, ../streamit/inc/Theme_Setup/Component.php:112
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: ../streamit/inc/class-tgm-plugin-activation.php:349
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: ../streamit/inc/class-tgm-plugin-activation.php:351
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: ../streamit/inc/class-tgm-plugin-activation.php:352
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../streamit/inc/class-tgm-plugin-activation.php:353
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../streamit/inc/class-tgm-plugin-activation.php:359
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../streamit/inc/class-tgm-plugin-activation.php:365
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../streamit/inc/class-tgm-plugin-activation.php:371
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../streamit/inc/class-tgm-plugin-activation.php:377
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../streamit/inc/class-tgm-plugin-activation.php:383
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../streamit/inc/class-tgm-plugin-activation.php:389
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../streamit/inc/class-tgm-plugin-activation.php:394
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../streamit/inc/class-tgm-plugin-activation.php:399
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../streamit/inc/class-tgm-plugin-activation.php:404
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../streamit/inc/class-tgm-plugin-activation.php:405, ../streamit/inc/class-tgm-plugin-activation.php:924, ../streamit/inc/class-tgm-plugin-activation.php:2630, ../streamit/inc/class-tgm-plugin-activation.php:3677
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../streamit/inc/class-tgm-plugin-activation.php:406, ../streamit/inc/class-tgm-plugin-activation.php:3256
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../streamit/inc/class-tgm-plugin-activation.php:407, ../streamit/inc/class-tgm-plugin-activation.php:3049
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: ../streamit/inc/class-tgm-plugin-activation.php:409
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: ../streamit/inc/class-tgm-plugin-activation.php:411
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: ../streamit/inc/class-tgm-plugin-activation.php:413
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../streamit/inc/class-tgm-plugin-activation.php:414
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../streamit/inc/class-tgm-plugin-activation.php:415
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: ../streamit/inc/class-tgm-plugin-activation.php:416
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../streamit/inc/class-tgm-plugin-activation.php:619
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: ../streamit/inc/class-tgm-plugin-activation.php:620
+msgid "Update Required"
+msgstr ""
+
+#: ../streamit/inc/class-tgm-plugin-activation.php:1034
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: ../streamit/inc/class-tgm-plugin-activation.php:1034, ../streamit/inc/class-tgm-plugin-activation.php:1031
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: ../streamit/inc/class-tgm-plugin-activation.php:1031
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: ../streamit/inc/class-tgm-plugin-activation.php:1218, ../streamit/inc/class-tgm-plugin-activation.php:3045
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: ../streamit/inc/class-tgm-plugin-activation.php:2079
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../streamit/inc/class-tgm-plugin-activation.php:2370
+msgid "Required"
+msgstr ""
+
+#: ../streamit/inc/class-tgm-plugin-activation.php:2389
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../streamit/inc/class-tgm-plugin-activation.php:2392
+msgid "External Source"
+msgstr ""
+
+#: ../streamit/inc/class-tgm-plugin-activation.php:2395
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../streamit/inc/class-tgm-plugin-activation.php:2412
+msgid "Not Installed"
+msgstr ""
+
+#: ../streamit/inc/class-tgm-plugin-activation.php:2418
+msgid "Active"
+msgstr ""
+
+#: ../streamit/inc/class-tgm-plugin-activation.php:2416
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../streamit/inc/class-tgm-plugin-activation.php:2430
+msgid "Update recommended"
+msgstr ""
+
+#: ../streamit/inc/class-tgm-plugin-activation.php:2427
+msgid "Requires Update"
+msgstr ""
+
+#: ../streamit/inc/class-tgm-plugin-activation.php:2424
+msgid "Required Update not Available"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: ../streamit/inc/class-tgm-plugin-activation.php:2439
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: ../streamit/inc/class-tgm-plugin-activation.php:2485
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: ../streamit/inc/class-tgm-plugin-activation.php:2489
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: ../streamit/inc/class-tgm-plugin-activation.php:2493
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: ../streamit/inc/class-tgm-plugin-activation.php:2497
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../streamit/inc/class-tgm-plugin-activation.php:2579
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: ../streamit/inc/class-tgm-plugin-activation.php:2587
+msgid "Installed version:"
+msgstr ""
+
+#: ../streamit/inc/class-tgm-plugin-activation.php:2595
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../streamit/inc/class-tgm-plugin-activation.php:2607
+msgid "Available version:"
+msgstr ""
+
+#: ../streamit/inc/class-tgm-plugin-activation.php:2630
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: ../streamit/inc/class-tgm-plugin-activation.php:2644
+msgid "Plugin"
+msgstr ""
+
+#: ../streamit/inc/class-tgm-plugin-activation.php:2645
+msgid "Source"
+msgstr ""
+
+#: ../streamit/inc/class-tgm-plugin-activation.php:2646
+msgid "Type"
+msgstr ""
+
+#: ../streamit/inc/class-tgm-plugin-activation.php:2650
+msgid "Version"
+msgstr ""
+
+#: ../streamit/inc/class-tgm-plugin-activation.php:2651
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: ../streamit/inc/class-tgm-plugin-activation.php:2705
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: ../streamit/inc/class-tgm-plugin-activation.php:2711
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../streamit/inc/class-tgm-plugin-activation.php:2700
+msgid "Install %2$s"
+msgstr ""
+
+#: ../streamit/inc/class-tgm-plugin-activation.php:2781
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../streamit/inc/class-tgm-plugin-activation.php:2814, ../streamit/inc/Theme_Setup/Component.php:80, ../streamit/inc/Theme_Setup/Component.php:81, ../streamit/inc/Theme_Setup/Component.php:82
+msgid "Install"
+msgstr ""
+
+#: ../streamit/inc/class-tgm-plugin-activation.php:2820, ../streamit/woocommerce/cart/shipping-calculator.php:99
+msgid "Update"
+msgstr ""
+
+#: ../streamit/inc/class-tgm-plugin-activation.php:2823, ../streamit/inc/Theme_Setup/Component.php:84
+msgid "Activate"
+msgstr ""
+
+#: ../streamit/inc/class-tgm-plugin-activation.php:2856
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../streamit/inc/class-tgm-plugin-activation.php:2854
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../streamit/inc/class-tgm-plugin-activation.php:2899
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../streamit/inc/class-tgm-plugin-activation.php:2897
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../streamit/inc/class-tgm-plugin-activation.php:3005
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../streamit/inc/class-tgm-plugin-activation.php:3031
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../streamit/inc/class-tgm-plugin-activation.php:3255
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: ../streamit/inc/class-tgm-plugin-activation.php:3598
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: ../streamit/inc/class-tgm-plugin-activation.php:3600
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../streamit/inc/class-tgm-plugin-activation.php:3612
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: ../streamit/inc/class-tgm-plugin-activation.php:3614
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../streamit/inc/class-tgm-plugin-activation.php:3614, ../streamit/inc/class-tgm-plugin-activation.php:3606
+msgid "Show Details"
+msgstr ""
+
+#: ../streamit/inc/class-tgm-plugin-activation.php:3614, ../streamit/inc/class-tgm-plugin-activation.php:3606
+msgid "Hide Details"
+msgstr ""
+
+#: ../streamit/inc/class-tgm-plugin-activation.php:3615
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: ../streamit/inc/class-tgm-plugin-activation.php:3617
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../streamit/inc/class-tgm-plugin-activation.php:3604
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: ../streamit/inc/class-tgm-plugin-activation.php:3606
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../streamit/inc/class-tgm-plugin-activation.php:3607
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../streamit/inc/class-tgm-plugin-activation.php:3609
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../streamit/inc/class-tgm-plugin-activation.php:3595
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../streamit/inc/import.php:9, ../streamit/inc/Import/Component.php:102
+msgid "All Content"
+msgstr ""
+
+#: ../streamit/inc/import.php:21, ../streamit/inc/Import/Component.php:114
+msgid "DEMO IMPORT REQUIREMENTS: Memory Limit of 128 MB and max execution time (php time limit) of 300 seconds. "
+msgstr ""
+
+#: ../streamit/inc/import.php:21, ../streamit/inc/Import/Component.php:114
+msgid "Based on your INTERNET SPEED it could take 5 to 25 minutes. "
+msgstr ""
+
+#. translators: 1: classname/type of the variable, 2: interface name
+#: ../streamit/inc/Template_Tags.php:54
+msgid "The theme templating component %1$s does not implement the %2$s interface."
+msgstr ""
+
+#. translators: %s: template tag name
+#: ../streamit/inc/Template_Tags.php:81
+msgid "The template tag %s does not exist."
+msgstr ""
+
+#. translators: 1: template tag method name, 2: component class name
+#: ../streamit/inc/Template_Tags.php:110
+msgid "The template tag method %1$s registered by theme component %2$s must either be a callable or an array."
+msgstr ""
+
+#. translators: 1: template tag method name, 2: component class name
+#: ../streamit/inc/Template_Tags.php:121
+msgid "The template tag method %1$s registered by theme component %2$s conflicts with an already registered template tag of the same name."
+msgstr ""
+
+#. translators: 1: classname/type of the variable, 2: interface name
+#: ../streamit/inc/Theme.php:57
+msgid "The theme component %1$s does not implement the %2$s interface."
+msgstr ""
+
+#. translators: %s: slug
+#: ../streamit/inc/Theme.php:120
+msgid "No theme component with the slug %s exists."
+msgstr ""
+
+#: ../streamit/masvideos/search-form.php:27
+msgid "Search for:"
+msgstr ""
+
+#: ../streamit/masvideos/search-form.php:28
+msgid "Search &hellip;"
+msgstr ""
+
+#: ../streamit/woocommerce/share.php:51
+msgid "Facebook"
+msgstr ""
+
+#: ../streamit/woocommerce/share.php:59
+msgid "Twitter"
+msgstr ""
+
+#: ../streamit/woocommerce/share.php:67
+msgid "Pinterest"
+msgstr ""
+
+#: ../streamit/woocommerce/share.php:83
+msgid "WhatsApp"
+msgstr ""
+
+#: ../streamit/woocommerce/share.php:93
+msgid "(Now"
+msgstr ""
+
+#: ../streamit/woocommerce/share.php:93
+msgid "copy"
+msgstr ""
+
+#: ../streamit/woocommerce/share.php:93
+msgid "this wishlist link and share it anywhere)"
+msgstr ""
+
+#: ../streamit/woocommerce/single-product-reviews.php:40
+msgid "Reviews"
+msgstr ""
+
+#: ../streamit/woocommerce/single-product-reviews.php:37
+msgid "%1$s review for %2$s"
+msgid_plural "%1$s reviews for %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../streamit/woocommerce/single-product-reviews.php:160
+msgid "Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: ../streamit/woocommerce/single-product-reviews.php:139
+msgid "You must be %1$slogged in%2$s to post a review."
+msgstr ""
+
+#: ../streamit/woocommerce/single-product-reviews.php:145
+msgid "Perfect"
+msgstr ""
+
+#: ../streamit/woocommerce/single-product-reviews.php:146
+msgid "Good"
+msgstr ""
+
+#: ../streamit/woocommerce/single-product-reviews.php:147
+msgid "Average"
+msgstr ""
+
+#: ../streamit/woocommerce/single-product-reviews.php:148
+msgid "Not that bad"
+msgstr ""
+
+#: ../streamit/woocommerce/single-product-reviews.php:149
+msgid "Very poor"
+msgstr ""
+
+#: ../streamit/woocommerce/wishlist-view-header.php:43
+msgid "wishlist-title-with-form"
+msgstr ""
+
+#: ../streamit/woocommerce/wishlist-view-header.php:48
+msgid "Edit title"
+msgstr ""
+
+#: ../streamit/woocommerce/wishlist-view-mobile.php:53
+msgid "with-checkbox"
+msgstr ""
+
+#: ../streamit/woocommerce/wishlist-view-mobile.php:53, ../streamit/woocommerce/wishlist-view.php:55
+msgid "no-interactions"
+msgstr ""
+
+#: ../streamit/woocommerce/wishlist-view-mobile.php:262, ../streamit/woocommerce/wishlist-view.php:321
+msgid "No products added to the wishlist"
+msgstr ""
+
+#: ../streamit/woocommerce/wishlist-view-mobile.php:87
+msgid "Product Name:"
+msgstr ""
+
+#: ../streamit/woocommerce/wishlist-view-mobile.php:135
+msgid "Added on:"
+msgstr ""
+
+#: ../streamit/woocommerce/wishlist-view-mobile.php:146
+msgid "Price:"
+msgstr ""
+
+#: ../streamit/woocommerce/wishlist-view-mobile.php:173
+msgid "Quantity:"
+msgstr ""
+
+#: ../streamit/woocommerce/wishlist-view-mobile.php:188
+msgid "Stock:"
+msgstr ""
+
+#: ../streamit/woocommerce/wishlist-view-mobile.php:191, ../streamit/woocommerce/wishlist-view.php:231
+msgid "Out of stock"
+msgstr ""
+
+#: ../streamit/woocommerce/wishlist-view-mobile.php:191, ../streamit/woocommerce/wishlist-view.php:231
+msgid "In Stock"
+msgstr ""
+
+#: ../streamit/woocommerce/wishlist-view-mobile.php:206, ../streamit/woocommerce/wishlist-view.php:255, ../streamit/woocommerce/loop/add-to-cart.php:30
+msgid "View Product"
+msgstr ""
+
+#: ../streamit/woocommerce/wishlist-view-mobile.php:241, ../streamit/woocommerce/wishlist-view.php:290
+msgid "Move to another list &rsaquo;"
+msgstr ""
+
+#: ../streamit/woocommerce/wishlist-view-mobile.php:220, ../streamit/woocommerce/wishlist-view.php:269
+msgid "Move"
+msgstr ""
+
+#: ../streamit/woocommerce/wishlist-view-mobile.php:249, ../streamit/woocommerce/wishlist-view.php:160, ../streamit/woocommerce/wishlist-view.php:300
+msgid "Remove this product"
+msgstr ""
+
+#: ../streamit/woocommerce/wishlist-view.php:55
+msgid "sortable"
+msgstr ""
+
+#: ../streamit/woocommerce/wishlist-view.php:81
+msgid "Product name"
+msgstr ""
+
+#: ../streamit/woocommerce/wishlist-view.php:89
+msgid "Unit price"
+msgstr ""
+
+#: ../streamit/woocommerce/wishlist-view.php:98, ../streamit/woocommerce/cart/cart.php:35, ../streamit/woocommerce/cart/cart.php:95, ../streamit/woocommerce/global/quantity-input.php:28
+msgid "Quantity"
+msgstr ""
+
+#: ../streamit/woocommerce/wishlist-view.php:107
+msgid "Stock status"
+msgstr ""
+
+#: ../streamit/woocommerce/wishlist-view.php:125
+msgid "Arrange"
+msgstr ""
+
+#: ../streamit/woocommerce/wishlist-view.php:245
+msgid "Added on: %s"
+msgstr ""
+
+#: ../streamit/woocommerce/wishlist-view.php:300
+msgid "Remove"
+msgstr ""
+
+#: ../streamit/inc/Accessibility/Component.php:66
+msgid "Expand child menu"
+msgstr ""
+
+#: ../streamit/inc/Accessibility/Component.php:67
+msgid "Collapse child menu"
+msgstr ""
+
+#: ../streamit/inc/Comments/Component.php:151
+msgid "New comment(s)"
+msgstr ""
+
+#: ../streamit/inc/Comments/Component.php:206
+msgid "(Edit)"
+msgstr ""
+
+#: ../streamit/inc/Comments/Component.php:230
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../streamit/inc/Comments/Component.php:245, ../streamit/woocommerce/myaccount/my-address.php:57
+msgid "Edit"
+msgstr ""
+
+#: ../streamit/inc/Comments/Component.php:249
+msgid "Reply"
+msgstr ""
+
+#: ../streamit/inc/Common/Component.php:259
+msgid "%s"
+msgstr ""
+
+#: ../streamit/inc/Common/Component.php:424
+msgid "Oops! That page can not be found."
+msgstr ""
+
+#: ../streamit/inc/Common/Component.php:419
+msgid "Search"
+msgstr ""
+
+#: ../streamit/inc/Common/Component.php:468
+msgid "banner"
+msgstr ""
+
+#: ../streamit/inc/Common/Component.php:476, ../streamit/template-parts/breadcrumb/breadcrumb.php:17
+msgid "Home"
+msgstr ""
+
+#: ../streamit/inc/Common/Component.php:562
+msgid "Error 404"
+msgstr ""
+
+#: ../streamit/inc/Common/Component.php:560
+msgid "Articles posted by : "
+msgstr ""
+
+#: ../streamit/inc/Common/Component.php:556
+msgid "Posts tagged"
+msgstr ""
+
+#: ../streamit/inc/Common/Component.php:494
+msgid "Search results for : "
+msgstr ""
+
+#: ../streamit/inc/Common/Component.php:492
+msgid "Archive by category : "
+msgstr ""
+
+#: ../streamit/inc/Common/Component.php:488
+msgid "Blogs"
+msgstr ""
+
+#: ../streamit/inc/Common/Component.php:566
+msgid "Page"
+msgstr ""
+
+#: ../streamit/inc/Common/Component.php:600
+msgid "Streamit v2.0.0 Is Here!"
+msgstr ""
+
+#: ../streamit/inc/Common/Component.php:602
+msgid "Streamit Extensions Plugin Update Available."
+msgstr ""
+
+#: ../streamit/inc/Common/Component.php:603
+msgid "Click Here - How To Install Plugin"
+msgstr ""
+
+#: ../streamit/inc/Common/Component.php:609
+msgid "Dismiss"
+msgstr ""
+
+#: ../streamit/inc/Common/Component.php:690
+msgid "You must be logged in to view this content."
+msgstr ""
+
+#: ../streamit/inc/Common/Component.php:699
+msgid "9+"
+msgstr ""
+
+#: ../streamit/inc/Common/Component.php:780, ../streamit/inc/Redux_Framework/Options/Page.php:106
+msgid "Cast"
+msgstr ""
+
+#: ../streamit/inc/Common/Component.php:789
+msgid "Crew"
+msgstr ""
+
+#: ../streamit/inc/Customizer/Component.php:78
+msgid "Theme Options"
+msgstr ""
+
+#: ../streamit/inc/Editor/Component.php:65
+msgid "Primary"
+msgstr ""
+
+#: ../streamit/inc/Editor/Component.php:70
+msgid "Secondary"
+msgstr ""
+
+#: ../streamit/inc/Editor/Component.php:75
+msgid "Red"
+msgstr ""
+
+#: ../streamit/inc/Editor/Component.php:80
+msgid "Green"
+msgstr ""
+
+#: ../streamit/inc/Editor/Component.php:85
+msgid "Blue"
+msgstr ""
+
+#: ../streamit/inc/Editor/Component.php:90
+msgid "Yellow"
+msgstr ""
+
+#: ../streamit/inc/Editor/Component.php:95
+msgid "Black"
+msgstr ""
+
+#: ../streamit/inc/Editor/Component.php:100
+msgid "Grey"
+msgstr ""
+
+#: ../streamit/inc/Editor/Component.php:105
+msgid "White"
+msgstr ""
+
+#: ../streamit/inc/Editor/Component.php:110
+msgid "Dusty daylight"
+msgstr ""
+
+#: ../streamit/inc/Editor/Component.php:115
+msgid "Dusty sun"
+msgstr ""
+
+#: ../streamit/inc/Editor/Component.php:132
+msgid "Small"
+msgstr ""
+
+#: ../streamit/inc/Editor/Component.php:133
+msgid "S"
+msgstr ""
+
+#: ../streamit/inc/Editor/Component.php:138
+msgid "Medium"
+msgstr ""
+
+#: ../streamit/inc/Editor/Component.php:139
+msgid "M"
+msgstr ""
+
+#: ../streamit/inc/Editor/Component.php:144
+msgid "Large"
+msgstr ""
+
+#: ../streamit/inc/Editor/Component.php:145
+msgid "L"
+msgstr ""
+
+#: ../streamit/inc/Editor/Component.php:150
+msgid "Larger"
+msgstr ""
+
+#: ../streamit/inc/Editor/Component.php:151
+msgid "XL"
+msgstr ""
+
+#: ../streamit/inc/Footer/Component.php:93
+msgid "text-left"
+msgstr ""
+
+#: ../streamit/inc/Footer/Component.php:94
+msgid "text-right"
+msgstr ""
+
+#: ../streamit/inc/Footer/Component.php:95
+msgid "text-center"
+msgstr ""
+
+#: ../streamit/inc/Helper/Component.php:93
+msgid "Save Profile"
+msgstr ""
+
+#: ../streamit/inc/Helper/Component.php:221
+msgid "No Results Found"
+msgstr ""
+
+#: ../streamit/inc/Helper/Component.php:230
+msgid "More Results"
+msgstr ""
+
+#: ../streamit/inc/Merlin/class-merlin.php:572
+msgid "Welcome"
+msgstr ""
+
+#: ../streamit/inc/Merlin/class-merlin.php:944
+msgid "PHP Configuration"
+msgstr ""
+
+#: ../streamit/inc/Merlin/class-merlin.php:945
+msgid "Recommended (Min)"
+msgstr ""
+
+#: ../streamit/inc/Merlin/class-merlin.php:946
+msgid "Existing"
+msgstr ""
+
+#: ../streamit/inc/Merlin/class-merlin.php:1137
+msgid "About child theme"
+msgstr ""
+
+#: ../streamit/inc/Merlin/class-merlin.php:1139
+msgid "A child theme allows you to change small aspects of your site's appearance yet still preserve your theme's look and functionality. To understand how child themes work it is first important to understand the relationship between parent and child themes."
+msgstr ""
+
+#: ../streamit/inc/Merlin/class-merlin.php:1333
+msgid "Something went worng !"
+msgstr ""
+
+#: ../streamit/inc/Merlin/class-merlin.php:1336
+msgid " Below listed plugin has been not installed. Install it mannually or submit the ticket for Help."
+msgstr ""
+
+#: ../streamit/inc/Merlin/class-merlin.php:1362
+msgid "Download"
+msgstr ""
+
+#: ../streamit/inc/Merlin/class-merlin.php:1368
+msgid "Try Again"
+msgstr ""
+
+#: ../streamit/inc/Merlin/class-merlin.php:1369
+msgid "Get Support"
+msgstr ""
+
+#: ../streamit/inc/Nav_Menus/Component.php:67
+msgid "Top Menu"
+msgstr ""
+
+#: ../streamit/inc/Nav_Menus/Component.php:68
+msgid "Social Links Menu"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Component.php:64, ../streamit/inc/Redux_Framework/Component.php:65
+msgid "Streamit Options"
+msgstr ""
+
+#: ../streamit/inc/Sidebars/Component.php:76
+msgid "Blog Sidebar"
+msgstr ""
+
+#: ../streamit/inc/Sidebars/Component.php:78
+msgid "Add widgets here to appear in your sidebar on blog posts and archive pages."
+msgstr ""
+
+#: ../streamit/inc/Sidebars/Component.php:87
+msgid "Product Sidebar"
+msgstr ""
+
+#. translators: %s: stylesheet handle
+#: ../streamit/inc/Styles/Component.php:243
+msgid "Invalid theme stylesheet handle: %s"
+msgstr ""
+
+#: ../streamit/inc/TGM/Component.php:59
+msgid "Advanced Custom Fields"
+msgstr ""
+
+#: ../streamit/inc/TGM/Component.php:64
+msgid "Elementor"
+msgstr ""
+
+#: ../streamit/inc/TGM/Component.php:69
+msgid "WP ULike - Most Advanced WordPress Marketing Toolkit"
+msgstr ""
+
+#: ../streamit/inc/TGM/Component.php:75
+msgid "Paid Member Subscriptions"
+msgstr ""
+
+#: ../streamit/inc/TGM/Component.php:80
+msgid "WooCommerce"
+msgstr ""
+
+#: ../streamit/inc/TGM/Component.php:85
+msgid "WPC Smart Quick View for WooCommerce"
+msgstr ""
+
+#: ../streamit/inc/TGM/Component.php:90
+msgid "WOOF - Products Filter for WooCommerce "
+msgstr ""
+
+#: ../streamit/inc/TGM/Component.php:96
+msgid "Envato Market"
+msgstr ""
+
+#: ../streamit/inc/TGM/Component.php:103
+msgid "Contact Form 7"
+msgstr ""
+
+#: ../streamit/inc/TGM/Component.php:108
+msgid "YITH WooCommerce Wishlist"
+msgstr ""
+
+#: ../streamit/inc/TGM/Component.php:114
+msgid "MAS Videos"
+msgstr ""
+
+#: ../streamit/inc/TGM/Component.php:119
+msgid "Mailchimp"
+msgstr ""
+
+#: ../streamit/inc/TGM/Component.php:124
+msgid "Streamit Extensions"
+msgstr ""
+
+#: ../streamit/inc/TGM/Component.php:130
+msgid "Iqonic Layouts"
+msgstr ""
+
+#: ../streamit/inc/Theme_Setup/Component.php:69
+msgid "Theme Setup"
+msgstr ""
+
+#. translators: 1: Title Tag 2: Theme Name 3: Closing Title Tag
+#: ../streamit/inc/Theme_Setup/Component.php:72
+msgid "%1$s%2$s Themes &lsaquo; Theme Setup: %3$s%4$s"
+msgstr ""
+
+#: ../streamit/inc/Theme_Setup/Component.php:73
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../streamit/inc/Theme_Setup/Component.php:74
+msgid "Disable this wizard"
+msgstr ""
+
+#: ../streamit/inc/Theme_Setup/Component.php:76
+msgid "Skip"
+msgstr ""
+
+#: ../streamit/inc/Theme_Setup/Component.php:77, ../streamit/woocommerce/myaccount/orders.php:110
+msgid "Next"
+msgstr ""
+
+#: ../streamit/inc/Theme_Setup/Component.php:78
+msgid "Start"
+msgstr ""
+
+#: ../streamit/inc/Theme_Setup/Component.php:79
+msgid "Cancel"
+msgstr ""
+
+#: ../streamit/inc/Theme_Setup/Component.php:83
+msgid "Import"
+msgstr ""
+
+#: ../streamit/inc/Theme_Setup/Component.php:85
+msgid "Later"
+msgstr ""
+
+#. translators: Theme Name
+#: ../streamit/inc/Theme_Setup/Component.php:88
+msgid "Activate %s"
+msgstr ""
+
+#. translators: Theme Name
+#: ../streamit/inc/Theme_Setup/Component.php:90
+msgid "%s is Activated"
+msgstr ""
+
+#. translators: Theme Name
+#: ../streamit/inc/Theme_Setup/Component.php:92
+msgid "Enter your license key to enable remote updates and theme support."
+msgstr ""
+
+#: ../streamit/inc/Theme_Setup/Component.php:93
+msgid "License key"
+msgstr ""
+
+#: ../streamit/inc/Theme_Setup/Component.php:94
+msgid "The theme is already registered, so you can go to the next step!"
+msgstr ""
+
+#: ../streamit/inc/Theme_Setup/Component.php:95
+msgid "Your theme is activated! Remote updates and theme support are enabled."
+msgstr ""
+
+#: ../streamit/inc/Theme_Setup/Component.php:96
+msgid "Need help?"
+msgstr ""
+
+#. translators: Theme Name
+#: ../streamit/inc/Theme_Setup/Component.php:99
+msgid "Welcome to %s"
+msgstr ""
+
+#: ../streamit/inc/Theme_Setup/Component.php:100
+msgid "Hi. Welcome back"
+msgstr ""
+
+#: ../streamit/inc/Theme_Setup/Component.php:104
+msgid "Install Child Theme"
+msgstr ""
+
+#: ../streamit/inc/Theme_Setup/Component.php:105
+msgid "You're good to go!"
+msgstr ""
+
+#: ../streamit/inc/Theme_Setup/Component.php:106
+msgid "Let's build & activate a child theme so you may easily make theme changes."
+msgstr ""
+
+#: ../streamit/inc/Theme_Setup/Component.php:107
+msgid "Your child theme has already been installed and ready activated, if it wasn't already."
+msgstr ""
+
+#: ../streamit/inc/Theme_Setup/Component.php:108
+msgid "Learn more about child themes"
+msgstr ""
+
+#: ../streamit/inc/Theme_Setup/Component.php:109
+msgid "Awesome. Your child theme has already been installed and ready to activated."
+msgstr ""
+
+#: ../streamit/inc/Theme_Setup/Component.php:110
+msgid "Awesome. Your child theme has been created and ready to activated."
+msgstr ""
+
+#: ../streamit/inc/Theme_Setup/Component.php:113
+msgid "You're up to speed!"
+msgstr ""
+
+#: ../streamit/inc/Theme_Setup/Component.php:114
+msgid "Let's install some essential WordPress plugins to get your site up to speed."
+msgstr ""
+
+#: ../streamit/inc/Theme_Setup/Component.php:115
+msgid "The required WordPress plugins are all installed and up to date. Press \"Next\" to continue the setup wizard."
+msgstr ""
+
+#: ../streamit/inc/Theme_Setup/Component.php:116, ../streamit/inc/Theme_Setup/Component.php:120
+msgid "Advanced"
+msgstr ""
+
+#: ../streamit/inc/Theme_Setup/Component.php:118
+msgid "Import Content"
+msgstr ""
+
+#: ../streamit/inc/Theme_Setup/Component.php:119
+msgid "Let's import content to your website, to help you get familiar with the theme."
+msgstr ""
+
+#: ../streamit/inc/Theme_Setup/Component.php:122
+msgid "All done. Have fun!"
+msgstr ""
+
+#. translators: Theme Author
+#: ../streamit/inc/Theme_Setup/Component.php:125
+msgid "Your theme has been all set up. Enjoy your new theme by %s."
+msgstr ""
+
+#: ../streamit/inc/Theme_Setup/Component.php:126
+msgid "Extras"
+msgstr ""
+
+#: ../streamit/inc/Theme_Setup/Component.php:127
+msgid "View your website"
+msgstr ""
+
+#: ../streamit/inc/Theme_Setup/Component.php:128
+msgid "Explore WordPress"
+msgstr ""
+
+#: ../streamit/inc/Theme_Setup/Component.php:129
+msgid "Get Theme Support"
+msgstr ""
+
+#: ../streamit/inc/Theme_Setup/Component.php:130
+msgid "Start Customizing"
+msgstr ""
+
+#: ../streamit/inc/WooCommerce/Component.php:241
+msgid "Shop"
+msgstr ""
+
+#: ../streamit/inc/WooCommerce/Component.php:429, ../streamit/inc/WooCommerce/Component.php:485
+msgid "Shopping Cart"
+msgstr ""
+
+#: ../streamit/inc/WooCommerce/Component.php:433
+msgid "Checkout"
+msgstr ""
+
+#: ../streamit/inc/WooCommerce/Component.php:437
+msgid "Order Summary"
+msgstr ""
+
+#: ../streamit/masvideos/myaccount/form-edit-account.php:26, ../streamit/woocommerce/myaccount/form-edit-account.php:28
+msgid "First name"
+msgstr ""
+
+#: ../streamit/masvideos/myaccount/form-edit-account.php:30, ../streamit/woocommerce/myaccount/form-edit-account.php:34
+msgid "Last name"
+msgstr ""
+
+#: ../streamit/masvideos/myaccount/form-edit-account.php:35, ../streamit/woocommerce/myaccount/form-edit-account.php:42
+msgid "Display name"
+msgstr ""
+
+#: ../streamit/masvideos/myaccount/form-edit-account.php:36, ../streamit/woocommerce/myaccount/form-edit-account.php:46
+msgid "This will be how your name will be displayed in the account section and in reviews"
+msgstr ""
+
+#: ../streamit/masvideos/myaccount/form-edit-account.php:40, ../streamit/woocommerce/myaccount/form-edit-account.php:51
+msgid "Email address"
+msgstr ""
+
+#: ../streamit/masvideos/myaccount/form-edit-account.php:44, ../streamit/woocommerce/myaccount/form-edit-account.php:58
+msgid "Password change"
+msgstr ""
+
+#: ../streamit/masvideos/myaccount/form-edit-account.php:47, ../streamit/woocommerce/myaccount/form-edit-account.php:62
+msgid "Current password (leave blank to leave unchanged)"
+msgstr ""
+
+#: ../streamit/masvideos/myaccount/form-edit-account.php:52, ../streamit/woocommerce/myaccount/form-edit-account.php:68
+msgid "New password (leave blank to leave unchanged)"
+msgstr ""
+
+#: ../streamit/masvideos/myaccount/form-edit-account.php:57, ../streamit/woocommerce/myaccount/form-edit-account.php:73
+msgid "Confirm new password"
+msgstr ""
+
+#: ../streamit/masvideos/myaccount/form-edit-account.php:65, ../streamit/masvideos/myaccount/form-edit-account.php:65, ../streamit/woocommerce/myaccount/form-edit-account.php:86, ../streamit/woocommerce/myaccount/form-edit-account.php:87
+msgid "Save changes"
+msgstr ""
+
+#: ../streamit/template-parts/cast_crew/cast.php:25
+msgid "As "
+msgstr ""
+
+#: ../streamit/template-parts/content/entry-attachment.php:33
+msgid "Previous:"
+msgstr ""
+
+#: ../streamit/template-parts/content/entry-attachment.php:43
+msgid "Next:"
+msgstr ""
+
+#: ../streamit/template-parts/content/entry-attachment.php:49
+msgid "Post navigation"
+msgstr ""
+
+#: ../streamit/template-parts/content/entry.php:30, ../streamit/template-parts/content/entry_page.php:18
+msgid "Pages:"
+msgstr ""
+
+#: ../streamit/template-parts/content/entry_actions.php:11
+msgid "Read More"
+msgstr ""
+
+#. translators: %s: post author
+#: ../streamit/template-parts/content/entry_meta.php:65
+msgctxt "post author"
+msgid "By %s"
+msgstr ""
+
+#. translators: %s: post author
+#: ../streamit/template-parts/content/entry_meta.php:68
+msgctxt "post author"
+msgid "%s"
+msgstr ""
+
+#. translators: %s: post parent title
+#: ../streamit/template-parts/content/entry_meta.php:86
+msgctxt "post parent"
+msgid "In %s"
+msgstr ""
+
+#. translators: %s: post parent title
+#: ../streamit/template-parts/content/entry_meta.php:89
+msgctxt "post parent"
+msgid "in %s"
+msgstr ""
+
+#: ../streamit/template-parts/content/entry_taxonomies.php:22
+msgid "Categories:"
+msgstr ""
+
+#: ../streamit/template-parts/content/error-404.php:43, ../streamit/template-parts/content/error-404.php:38, ../streamit/inc/Redux_Framework/Options/FourZeroFour.php:25
+msgid "404"
+msgstr ""
+
+#: ../streamit/template-parts/content/error-404.php:69, ../streamit/template-parts/content/error.php:52, ../streamit/inc/Redux_Framework/Options/FourZeroFour.php:84
+msgid "Back to Home"
+msgstr ""
+
+#: ../streamit/template-parts/content/error-offline.php:14
+msgid "Oops! It looks like you&#8217;re offline."
+msgstr ""
+
+#: ../streamit/template-parts/content/error.php:62
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: ../streamit/template-parts/content/error.php:39
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: ../streamit/template-parts/content/error.php:43
+msgid "Search website"
+msgstr ""
+
+#: ../streamit/template-parts/content/error.php:22
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../streamit/template-parts/content/page_header.php:39, ../streamit/template-parts/content/page_header.php:22
+msgid "Nothing Found"
+msgstr ""
+
+#: ../streamit/template-parts/content/page_header.php:14
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: ../streamit/template-parts/footer/info.php:52
+msgid "https://themeforest.net/user/iqonicthemes/portfolio/"
+msgstr ""
+
+#: ../streamit/template-parts/footer/info.php:53, ../streamit/template-parts/footer/info.php:35
+msgid "© 2022"
+msgstr ""
+
+#: ../streamit/template-parts/footer/info.php:54
+msgid " streamit "
+msgstr ""
+
+#: ../streamit/template-parts/footer/info.php:55, ../streamit/template-parts/footer/info.php:37
+msgid ". All Rights Reserved."
+msgstr ""
+
+#: ../streamit/template-parts/footer/info.php:36
+msgid " Streamit "
+msgstr ""
+
+#: ../streamit/template-parts/header/header-user.php:174, ../streamit/inc/Redux_Framework/Options/User.php:147, ../streamit/inc/Redux_Framework/Options/User.php:155
+msgid "Profile"
+msgstr ""
+
+#: ../streamit/template-parts/header/header-user.php:206
+msgid "Watchlist"
+msgstr ""
+
+#: ../streamit/template-parts/header/header-user.php:104, ../streamit/inc/Redux_Framework/Options/User.php:89, ../streamit/inc/Redux_Framework/Options/User.php:98
+msgid "Sign In"
+msgstr ""
+
+#: ../streamit/template-parts/header/header-user.php:134, ../streamit/inc/Redux_Framework/Options/User.php:55, ../streamit/inc/Redux_Framework/Options/User.php:64
+msgid "Sign Up"
+msgstr ""
+
+#: ../streamit/template-parts/header/navigation.php:14
+msgid "Main menu"
+msgstr ""
+
+#: ../streamit/template-parts/maintenance/maintenance.php:56, ../streamit/template-parts/maintenance/maintenance.php:60, ../streamit/template-parts/maintenance/maintenance.php:64, ../streamit/template-parts/maintenance/maintenance.php:68
+msgid "00"
+msgstr ""
+
+#: ../streamit/template-parts/maintenance/maintenance.php:57
+msgid "Days"
+msgstr ""
+
+#: ../streamit/template-parts/maintenance/maintenance.php:61
+msgid "Hours"
+msgstr ""
+
+#: ../streamit/template-parts/maintenance/maintenance.php:65
+msgid "Minutes"
+msgstr ""
+
+#: ../streamit/template-parts/maintenance/maintenance.php:69
+msgid "Seconds"
+msgstr ""
+
+#: ../streamit/template-parts/wocommerce/entry-listing.php:31, ../streamit/template-parts/wocommerce/entry.php:29, ../streamit/woocommerce/single-product/sale-flash.php:33
+msgid "New!"
+msgstr ""
+
+#: ../streamit/template-parts/wocommerce/entry-listing.php:29, ../streamit/template-parts/wocommerce/entry.php:27, ../streamit/woocommerce/single-product/sale-flash.php:30
+msgid "Sale!"
+msgstr ""
+
+#: ../streamit/template-parts/wocommerce/entry-listing.php:27, ../streamit/template-parts/wocommerce/entry.php:25, ../streamit/woocommerce/single-product/sale-flash.php:27
+msgid "Sold!"
+msgstr ""
+
+#: ../streamit/template-parts/wocommerce/entry-listing.php:47, ../streamit/template-parts/wocommerce/entry.php:43, ../streamit/woocommerce/single-product/product-image.php:81
+msgid "Awaiting product image"
+msgstr ""
+
+#: ../streamit/template-parts/wocommerce/entry-listing.php:122, ../streamit/template-parts/wocommerce/entry.php:78
+msgid "View cart"
+msgstr ""
+
+#: ../streamit/template-parts/wocommerce/entry-listing.php:117
+msgid "Add to Cart"
+msgstr ""
+
+#: ../streamit/template-parts/wocommerce/entry-listing.php:113
+msgid "Our Product"
+msgstr ""
+
+#: ../streamit/template-parts/wocommerce/entry-listing.php:109
+msgid "View products"
+msgstr ""
+
+#: ../streamit/template-parts/wocommerce/entry-listing.php:105
+msgid "Select Options"
+msgstr ""
+
+#: ../streamit/woocommerce/cart/cart-empty.php:33
+msgid "Return to shop"
+msgstr ""
+
+#: ../streamit/woocommerce/cart/cart-totals.php:26
+msgid "Cart totals"
+msgstr ""
+
+#: ../streamit/woocommerce/cart/cart-totals.php:32, ../streamit/woocommerce/cart/cart-totals.php:33, ../streamit/woocommerce/cart/cart.php:36, ../streamit/woocommerce/cart/cart.php:117, ../streamit/woocommerce/checkout/review-order.php:51
+msgid "Subtotal"
+msgstr ""
+
+#: ../streamit/woocommerce/cart/cart-totals.php:54, ../streamit/woocommerce/cart/cart-totals.php:55
+msgid "Shipping"
+msgstr ""
+
+#. translators: %s location.
+#: ../streamit/woocommerce/cart/cart-totals.php:74
+msgid "(estimated for %s)"
+msgstr ""
+
+#: ../streamit/woocommerce/cart/cart-totals.php:101, ../streamit/woocommerce/cart/cart-totals.php:102, ../streamit/woocommerce/checkout/review-order.php:98, ../streamit/woocommerce/order/order-details.php:58
+msgid "Total"
+msgstr ""
+
+#: ../streamit/woocommerce/cart/cart.php:33, ../streamit/woocommerce/cart/cart.php:57, ../streamit/woocommerce/checkout/form-checkout.php:51, ../streamit/woocommerce/checkout/form-pay.php:27, ../streamit/woocommerce/order/order-details.php:57
+msgid "Product"
+msgstr ""
+
+#: ../streamit/woocommerce/cart/cart.php:34, ../streamit/woocommerce/cart/cart.php:89
+msgid "Price"
+msgstr ""
+
+#: ../streamit/woocommerce/cart/cart.php:84
+msgid "Available on backorder"
+msgstr ""
+
+#: ../streamit/woocommerce/cart/cart.php:129, ../streamit/woocommerce/cart/mini-cart.php:47
+msgid "Remove this item"
+msgstr ""
+
+#: ../streamit/woocommerce/cart/cart.php:150
+msgid "Coupon:"
+msgstr ""
+
+#: ../streamit/woocommerce/cart/cart.php:150, ../streamit/woocommerce/checkout/form-coupon.php:36
+msgid "Coupon Code"
+msgstr ""
+
+#: ../streamit/woocommerce/cart/cart.php:155, ../streamit/woocommerce/checkout/form-coupon.php:38
+msgid "Apply coupon"
+msgstr ""
+
+#: ../streamit/woocommerce/cart/cart.php:168
+msgid "Update cart"
+msgstr ""
+
+#: ../streamit/woocommerce/cart/mini-cart.php:138
+msgid "Your Bag is empty. Add few items."
+msgstr ""
+
+#: ../streamit/woocommerce/cart/proceed-to-checkout-button.php:26
+msgid "Proceed to checkout"
+msgstr ""
+
+#: ../streamit/woocommerce/cart/shipping-calculator.php:24
+msgid "Calculate shipping"
+msgstr ""
+
+#: ../streamit/woocommerce/cart/shipping-calculator.php:32
+msgid "Select a country / region&hellip;"
+msgstr ""
+
+#: ../streamit/woocommerce/cart/shipping-calculator.php:72, ../streamit/woocommerce/cart/shipping-calculator.php:59, ../streamit/woocommerce/cart/shipping-calculator.php:53
+msgid "State / County"
+msgstr ""
+
+#: ../streamit/woocommerce/cart/shipping-calculator.php:60
+msgid "Select an option&hellip;"
+msgstr ""
+
+#: ../streamit/woocommerce/cart/shipping-calculator.php:83
+msgid "City"
+msgstr ""
+
+#: ../streamit/woocommerce/cart/shipping-calculator.php:92
+msgid "Postcode / ZIP"
+msgstr ""
+
+#: ../streamit/woocommerce/checkout/form-billing.php:28
+msgid "Billing details"
+msgstr ""
+
+#: ../streamit/woocommerce/checkout/form-billing.php:24
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: ../streamit/woocommerce/checkout/form-billing.php:54
+msgid "Create an account?"
+msgstr ""
+
+#: ../streamit/woocommerce/checkout/form-checkout.php:27
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: ../streamit/woocommerce/checkout/form-coupon.php:26
+msgid "Have a coupon?"
+msgstr ""
+
+#: ../streamit/woocommerce/checkout/form-coupon.php:26
+msgid "Click here to enter your code"
+msgstr ""
+
+#: ../streamit/woocommerce/checkout/form-coupon.php:31
+msgid "If you have a coupon code, please apply it below."
+msgstr ""
+
+#: ../streamit/woocommerce/checkout/form-coupon.php:39
+msgid "Apply Coupon"
+msgstr ""
+
+#: ../streamit/woocommerce/checkout/form-pay.php:28
+msgid "Qty"
+msgstr ""
+
+#: ../streamit/woocommerce/checkout/form-pay.php:29
+msgid "Totals"
+msgstr ""
+
+#: ../streamit/woocommerce/checkout/form-pay.php:79
+msgid "Sorry, it seems that there are no available payment methods for your location. Please contact us if you require assistance or wish to make alternate arrangements."
+msgstr ""
+
+#: ../streamit/woocommerce/checkout/form-shipping.php:26
+msgid "Ship to a different address?"
+msgstr ""
+
+#: ../streamit/woocommerce/checkout/form-shipping.php:57, ../streamit/woocommerce/single-product/tabs/additional-information.php:22
+msgid "Additional information"
+msgstr ""
+
+#: ../streamit/woocommerce/checkout/payment.php:33
+msgid "Sorry, it seems that there are no available payment methods for your state. Please contact us if you require assistance or wish to make alternate arrangements."
+msgstr ""
+
+#: ../streamit/woocommerce/checkout/payment.php:33
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#. translators: $1 and $2 opening and closing emphasis tags respectively
+#: ../streamit/woocommerce/checkout/payment.php:42
+msgid "Since your browser does not support JavaScript, or it is disabled, please ensure you click the %1$sUpdate Totals%2$s button before placing your order. You may be charged more than the amount stated above if you fail to do so."
+msgstr ""
+
+#: ../streamit/woocommerce/checkout/payment.php:45, ../streamit/woocommerce/checkout/payment.php:46
+msgid "Update totals"
+msgstr ""
+
+#: ../streamit/woocommerce/checkout/payment.php:56
+msgid "Place Order"
+msgstr ""
+
+#: ../streamit/woocommerce/checkout/thankyou.php:96, ../streamit/woocommerce/checkout/thankyou.php:48
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: ../streamit/woocommerce/checkout/thankyou.php:54
+msgid "Order number:"
+msgstr ""
+
+#: ../streamit/woocommerce/checkout/thankyou.php:60
+msgid "Date:"
+msgstr ""
+
+#: ../streamit/woocommerce/checkout/thankyou.php:67
+msgid "Email:"
+msgstr ""
+
+#: ../streamit/woocommerce/checkout/thankyou.php:74
+msgid "Total:"
+msgstr ""
+
+#: ../streamit/woocommerce/checkout/thankyou.php:81
+msgid "Payment method:"
+msgstr ""
+
+#: ../streamit/woocommerce/checkout/thankyou.php:32
+msgid "Unfortunately your order cannot be processed as the originating bank/merchant has declined your transaction. Please attempt your purchase again."
+msgstr ""
+
+#: ../streamit/woocommerce/checkout/thankyou.php:35
+msgid "Pay"
+msgstr ""
+
+#: ../streamit/woocommerce/checkout/thankyou.php:37
+msgid "My account"
+msgstr ""
+
+#: ../streamit/woocommerce/global/form-login.php:38
+msgid "Username or email"
+msgstr ""
+
+#: ../streamit/woocommerce/global/form-login.php:45
+msgid "Password"
+msgstr ""
+
+#: ../streamit/woocommerce/global/form-login.php:57, ../streamit/woocommerce/myaccount/form-login.php:58
+msgid "Remember me"
+msgstr ""
+
+#: ../streamit/woocommerce/global/form-login.php:61, ../streamit/woocommerce/myaccount/form-login.php:72
+msgid "Lost your password?"
+msgstr ""
+
+#: ../streamit/woocommerce/global/form-login.php:71, ../streamit/woocommerce/global/form-login.php:72, ../streamit/woocommerce/myaccount/form-login.php:33
+msgid "Login"
+msgstr ""
+
+#. translators: %s: Quantity.
+#: ../streamit/woocommerce/global/quantity-input.php:28
+msgid "%s quantity"
+msgstr ""
+
+#: ../streamit/woocommerce/global/quantity-input.php:42
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: ../streamit/woocommerce/loop/orderby.php:47
+msgid "Filter"
+msgstr ""
+
+#: ../streamit/woocommerce/loop/orderby.php:132
+msgid "Shop order"
+msgstr ""
+
+#. translators: 1: first result 2: last result 3: total results
+#: ../streamit/woocommerce/loop/result-count.php:38
+msgctxt "with first and last result"
+msgid "Showing %1$d&ndash;%2$d of %3$d result"
+msgid_plural "Showing %1$d&ndash;%2$d of %3$d results"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../streamit/woocommerce/loop/result-count.php:33
+msgid "Showing all %d result"
+msgid_plural "Showing all %d results"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../streamit/woocommerce/loop/result-count.php:30
+msgid "Showing the single result"
+msgstr ""
+
+#. translators: 1: user display name 2: logout url
+#: ../streamit/woocommerce/myaccount/dashboard.php:35
+msgid "Hello %1$s (not %1$s? <a href=\"%2$s\">Log out</a>)"
+msgstr ""
+
+#. translators: 1: Orders URL 2: Address URL 3: Account URL.
+#: ../streamit/woocommerce/myaccount/dashboard.php:45
+msgid "From your account dashboard you can view your <a href=\"%1$s\">recent orders</a>, manage your <a href=\"%2$s\">billing address</a>, and <a href=\"%3$s\">edit your password and account details</a>."
+msgstr ""
+
+#. translators: 1: Orders URL 2: Addresses URL 3: Account URL.
+#: ../streamit/woocommerce/myaccount/dashboard.php:48
+msgid "From your account dashboard you can view your <a href=\"%1$s\">recent orders</a>, manage your <a href=\"%2$s\">shipping and billing addresses</a>, and <a href=\"%3$s\">edit your password and account details</a>."
+msgstr ""
+
+#: ../streamit/woocommerce/myaccount/downloads.php:43, ../streamit/woocommerce/myaccount/orders.php:122
+msgid "Browse products"
+msgstr ""
+
+#: ../streamit/woocommerce/myaccount/downloads.php:47
+msgid "No downloads available yet."
+msgstr ""
+
+#: ../streamit/woocommerce/myaccount/form-add-payment-method.php:64
+msgid "New payment methods can only be added during checkout. Please contact us if you require assistance."
+msgstr ""
+
+#: ../streamit/woocommerce/myaccount/form-add-payment-method.php:56, ../streamit/woocommerce/myaccount/form-add-payment-method.php:57, ../streamit/woocommerce/myaccount/payment-methods.php:78
+msgid "Add payment method"
+msgstr ""
+
+#: ../streamit/woocommerce/myaccount/form-edit-address.php:20, ../streamit/woocommerce/myaccount/my-address.php:32, ../streamit/woocommerce/myaccount/my-address.php:27, ../streamit/woocommerce/order/order-details-customer.php:31, ../streamit/woocommerce/order/order-details-customer.php:26
+msgid "Billing address"
+msgstr ""
+
+#: ../streamit/woocommerce/myaccount/form-edit-address.php:20, ../streamit/woocommerce/myaccount/my-address.php:28, ../streamit/woocommerce/order/order-details-customer.php:27
+msgid "Shipping address"
+msgstr ""
+
+#: ../streamit/woocommerce/myaccount/form-edit-address.php:48, ../streamit/woocommerce/myaccount/form-edit-address.php:49
+msgid "Save Address"
+msgstr ""
+
+#: ../streamit/woocommerce/myaccount/form-login.php:66, ../streamit/woocommerce/myaccount/form-login.php:67
+msgid "Log in"
+msgstr ""
+
+#: ../streamit/woocommerce/myaccount/form-login.php:86, ../streamit/woocommerce/myaccount/form-login.php:127, ../streamit/woocommerce/myaccount/form-login.php:128
+msgid "Register"
+msgstr ""
+
+#: ../streamit/woocommerce/myaccount/form-lost-password.php:25
+msgid "Lost your password? Please enter your username or email address. You will receive a link to create a new password via email."
+msgstr ""
+
+#: ../streamit/woocommerce/myaccount/form-lost-password.php:40, ../streamit/woocommerce/myaccount/form-lost-password.php:41
+msgid "Reset password"
+msgstr ""
+
+#: ../streamit/woocommerce/myaccount/my-address.php:41
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: ../streamit/woocommerce/myaccount/my-address.php:101, ../streamit/woocommerce/order/order-details-customer.php:56
+msgid "Company"
+msgstr ""
+
+#: ../streamit/woocommerce/myaccount/my-address.php:106, ../streamit/woocommerce/order/order-details-customer.php:61
+msgid "Country"
+msgstr ""
+
+#: ../streamit/woocommerce/myaccount/my-address.php:111, ../streamit/woocommerce/order/order-details-customer.php:66
+msgid "Address"
+msgstr ""
+
+#: ../streamit/woocommerce/myaccount/my-address.php:116, ../streamit/woocommerce/order/order-details-customer.php:71
+msgid "E-mail"
+msgstr ""
+
+#: ../streamit/woocommerce/myaccount/my-address.php:121, ../streamit/woocommerce/order/order-details-customer.php:76, ../streamit/inc/Redux_Framework/Options/Header.php:506
+msgid "Phone"
+msgstr ""
+
+#: ../streamit/woocommerce/myaccount/orders.php:126
+msgid "No order has been made yet."
+msgstr ""
+
+#: ../streamit/woocommerce/myaccount/orders.php:68
+msgid "%1$s for %2$s item"
+msgid_plural "%1$s for %2$s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../streamit/woocommerce/myaccount/orders.php:55
+msgctxt "hash before order number"
+msgid "#"
+msgstr ""
+
+#: ../streamit/woocommerce/myaccount/orders.php:100
+msgid "Previous"
+msgstr ""
+
+#: ../streamit/woocommerce/myaccount/payment-methods.php:70
+msgid "No saved methods found."
+msgstr ""
+
+#: ../streamit/woocommerce/myaccount/payment-methods.php:49
+msgid "%1$s ending in %2$s"
+msgstr ""
+
+#: ../streamit/woocommerce/order/form-tracking.php:29
+msgid "To track your order please enter your Order ID in the box below and press the \"Track\" button. This was given to you on your receipt and in the confirmation email you should have received."
+msgstr ""
+
+#: ../streamit/woocommerce/order/form-tracking.php:32
+msgid "Enter your order id."
+msgstr ""
+
+#: ../streamit/woocommerce/order/form-tracking.php:36
+msgid "Enter your email id."
+msgstr ""
+
+#: ../streamit/woocommerce/order/form-tracking.php:42
+msgid "Track"
+msgstr ""
+
+#: ../streamit/woocommerce/order/form-tracking.php:43
+msgid "Track Order"
+msgstr ""
+
+#: ../streamit/woocommerce/order/order-again.php:22
+msgid "Order again"
+msgstr ""
+
+#: ../streamit/woocommerce/order/order-details-customer.php:45
+msgid "Billing address "
+msgstr ""
+
+#: ../streamit/woocommerce/order/order-details.php:45
+msgid "Order Details"
+msgstr ""
+
+#: ../streamit/woocommerce/order/order-details.php:100, ../streamit/inc/Redux_Framework/Options/Footer.php:115, ../streamit/inc/Redux_Framework/Options/Footer.php:225, ../streamit/inc/Redux_Framework/Options/General.php:40, ../streamit/inc/Redux_Framework/Options/Header.php:401, ../streamit/inc/Redux_Framework/Options/Header.php:567, ../streamit/inc/Redux_Framework/Options/Logo.php:33, ../streamit/inc/Redux_Framework/Options/User.php:48, ../streamit/inc/Redux_Framework/Options/User.php:286
+msgid "Note:"
+msgstr ""
+
+#: ../streamit/woocommerce/order/order-downloads.php:24
+msgid "Downloads"
+msgstr ""
+
+#: ../streamit/woocommerce/order/order-downloads.php:58
+msgid "&infin;"
+msgstr ""
+
+#: ../streamit/woocommerce/order/order-downloads.php:64
+msgid "Never"
+msgstr ""
+
+#. translators: 1: order number 2: order date 3: order status
+#: ../streamit/woocommerce/order/tracking.php:31
+msgid "Order #%1$s was placed on %2$s and is currently %3$s."
+msgstr ""
+
+#: ../streamit/woocommerce/order/tracking.php:42
+msgid "Order updates"
+msgstr ""
+
+#: ../streamit/woocommerce/order/tracking.php:48
+msgid "l jS \o\f F Y, h:ia"
+msgstr ""
+
+#: ../streamit/woocommerce/single-product/meta.php:31
+msgid "SKU :"
+msgstr ""
+
+#: ../streamit/woocommerce/single-product/meta.php:31
+msgid "N/A"
+msgstr ""
+
+#: ../streamit/woocommerce/single-product/meta.php:41
+msgid "Category :"
+msgid_plural "Categories :"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../streamit/woocommerce/single-product/meta.php:57
+msgid "Tag :"
+msgid_plural "Tags :"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../streamit/woocommerce/single-product/related.php:33
+msgid "Related Products"
+msgstr ""
+
+#: ../streamit/woocommerce/single-product/up-sells.php:29
+msgid "You may also like"
+msgstr ""
+
+#: ../streamit/inc/Dynamic_Style/Styles/Layout.php:77, ../streamit/inc/Dynamic_Style/Styles/Layout.php:74, ../streamit/inc/Redux_Framework/Options/Layout.php:37
+msgid "LTR"
+msgstr ""
+
+#: ../streamit/inc/Dynamic_Style/Styles/Layout.php:78, ../streamit/inc/Dynamic_Style/Styles/Layout.php:75, ../streamit/inc/Redux_Framework/Options/Layout.php:38
+msgid "RTL"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/AdditionalCode.php:25
+msgid "Additional Code"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/AdditionalCode.php:28
+msgid "This section contains options for header."
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/AdditionalCode.php:34
+msgid "CSS Code"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/AdditionalCode.php:35
+msgid "Paste your css code here."
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/AdditionalCode.php:37
+msgid "Paste your custom CSS code here."
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/AdditionalCode.php:43
+msgid "JS Code"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/AdditionalCode.php:44
+msgid "Paste your js code in footer."
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/AdditionalCode.php:47
+msgid "Paste your custom JS code here."
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Banner.php:25
+msgid "Banner Settings"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Banner.php:28
+msgid "This section contains options for Page Breadcrumbs Area."
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Banner.php:34
+msgid "Default Banner Image"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Banner.php:36
+msgid "Upload default banner image for your Website."
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Banner.php:37
+msgid "This banner image displays only with style - 1,2"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Banner.php:42
+msgid "Select Banner Style"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Banner.php:43
+msgid "Select the style that best fits your needs."
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Banner.php:46
+msgid "Style1"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Banner.php:50
+msgid "Style2"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Banner.php:54
+msgid "Style3"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Banner.php:58
+msgid "Style4"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Banner.php:62
+msgid "Style5"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Banner.php:72
+msgid "Display Banner on inner Pages"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Banner.php:74, ../streamit/inc/Redux_Framework/Options/Banner.php:85, ../streamit/inc/Redux_Framework/Options/Banner.php:97, ../streamit/inc/Redux_Framework/Options/Footer.php:62, ../streamit/inc/Redux_Framework/Options/Footer.php:85, ../streamit/inc/Redux_Framework/Options/Footer.php:126, ../streamit/inc/Redux_Framework/Options/Footer.php:235, ../streamit/inc/Redux_Framework/Options/General.php:102, ../streamit/inc/Redux_Framework/Options/Header.php:367, ../streamit/inc/Redux_Framework/Options/Header.php:381, ../streamit/inc/Redux_Framework/Options/Header.php:545, ../streamit/inc/Redux_Framework/Options/Loader.php:36, ../streamit/inc/Redux_Framework/Options/Typography.php:36, ../streamit/inc/Redux_Framework/Options/Woocommerce.php:129, ../streamit/inc/Redux_Framework/Options/Woocommerce.php:140, ../streamit/inc/Redux_Framework/Options/Woocommerce.php:161, ../streamit/inc/Redux_Framework/Options/Woocommerce.php:173, ../streamit/inc/Redux_Framework/Options/Woocommerce.php:185, ../streamit/inc/Redux_Framework/Options/Woocommerce.php:198, ../streamit/inc/Redux_Framework/Options/Woocommerce.php:210, ../streamit/inc/Redux_Framework/Options/Woocommerce.php:223
+msgid "Yes"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Banner.php:75, ../streamit/inc/Redux_Framework/Options/Banner.php:86, ../streamit/inc/Redux_Framework/Options/Banner.php:98, ../streamit/inc/Redux_Framework/Options/Footer.php:63, ../streamit/inc/Redux_Framework/Options/Footer.php:86, ../streamit/inc/Redux_Framework/Options/Footer.php:127, ../streamit/inc/Redux_Framework/Options/Footer.php:236, ../streamit/inc/Redux_Framework/Options/General.php:103, ../streamit/inc/Redux_Framework/Options/Header.php:368, ../streamit/inc/Redux_Framework/Options/Header.php:382, ../streamit/inc/Redux_Framework/Options/Header.php:546, ../streamit/inc/Redux_Framework/Options/Loader.php:37, ../streamit/inc/Redux_Framework/Options/Page.php:746, ../streamit/inc/Redux_Framework/Options/Page.php:779, ../streamit/inc/Redux_Framework/Options/Typography.php:37, ../streamit/inc/Redux_Framework/Options/Woocommerce.php:130, ../streamit/inc/Redux_Framework/Options/Woocommerce.php:141, ../streamit/inc/Redux_Framework/Options/Woocommerce.php:162, ../streamit/inc/Redux_Framework/Options/Woocommerce.php:174, ../streamit/inc/Redux_Framework/Options/Woocommerce.php:186, ../streamit/inc/Redux_Framework/Options/Woocommerce.php:199, ../streamit/inc/Redux_Framework/Options/Woocommerce.php:211, ../streamit/inc/Redux_Framework/Options/Woocommerce.php:224
+msgid "No"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Banner.php:77, ../streamit/inc/Redux_Framework/Options/Banner.php:89, ../streamit/inc/Redux_Framework/Options/Banner.php:101, ../streamit/inc/Redux_Framework/Options/Blog.php:132, ../streamit/inc/Redux_Framework/Options/Footer.php:130, ../streamit/inc/Redux_Framework/Options/General.php:105, ../streamit/inc/Redux_Framework/Options/Header.php:358, ../streamit/inc/Redux_Framework/Options/Header.php:371, ../streamit/inc/Redux_Framework/Options/Header.php:535, ../streamit/inc/Redux_Framework/Options/Header.php:548, ../streamit/inc/Redux_Framework/Options/Header.php:581, ../streamit/inc/Redux_Framework/Options/Loader.php:39, ../streamit/inc/Redux_Framework/Options/Page.php:119, ../streamit/inc/Redux_Framework/Options/Page.php:147, ../streamit/inc/Redux_Framework/Options/Page.php:176, ../streamit/inc/Redux_Framework/Options/Page.php:205, ../streamit/inc/Redux_Framework/Options/Page.php:250, ../streamit/inc/Redux_Framework/Options/Page.php:310, ../streamit/inc/Redux_Framework/Options/Page.php:460, ../streamit/inc/Redux_Framework/Options/Page.php:484, ../streamit/inc/Redux_Framework/Options/Page.php:496, ../streamit/inc/Redux_Framework/Options/Page.php:538, ../streamit/inc/Redux_Framework/Options/Page.php:647, ../streamit/inc/Redux_Framework/Options/Page.php:745, ../streamit/inc/Redux_Framework/Options/Page.php:778, ../streamit/inc/Redux_Framework/Options/User.php:194, ../streamit/inc/Redux_Framework/Options/User.php:206, ../streamit/inc/Redux_Framework/Options/User.php:218, ../streamit/inc/Redux_Framework/Options/Woocommerce.php:106, ../streamit/inc/Redux_Framework/Options/Woocommerce.php:143
+msgid "yes"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Banner.php:83
+msgid "Display breadcrumbs (navigation) on banner"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Banner.php:95
+msgid "Display title on banner"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Banner.php:108
+msgid "Select title tag"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Banner.php:124
+msgid "Set title color"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Banner.php:138
+msgid "Banner Background"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Banner.php:153
+msgid "Set banner background Color"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Banner.php:162
+msgid "Set banner background image"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Blog.php:25
+msgid "Blog"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Blog.php:32
+msgid "General Blogs"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Blog.php:35
+msgid "This section contains options for blog."
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Blog.php:42
+msgid "Blog Page Default Banner Image"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Blog.php:44, ../streamit/inc/Redux_Framework/Options/FourZeroFour.php:60
+msgid "Upload banner image for your Website. Otherwise blank field will be displayed in place of this section."
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Blog.php:44
+msgid "(Note:Only Display Banner Style Second & Third in Page Banner Setting)"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Blog.php:50
+msgid "Blog page Setting"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Blog.php:51
+msgid "Choose among these structures (Right Sidebar, Left Sidebar, 1column, 2column and 3column) for your blog section.<br />To filling these column sections you should go to appearance > widget.<br />And put every widget that you want in these sections."
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Blog.php:53, ../streamit/inc/Redux_Framework/Options/Blog.php:116, ../streamit/inc/Redux_Framework/Options/Woocommerce.php:53, ../streamit/inc/Redux_Framework/Options/Woocommerce.php:67
+msgid "Right Sidebar"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Blog.php:54, ../streamit/inc/Redux_Framework/Options/Blog.php:117, ../streamit/inc/Redux_Framework/Options/Woocommerce.php:52, ../streamit/inc/Redux_Framework/Options/Woocommerce.php:66
+msgid "Left Sidebar"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Blog.php:55
+msgid "One Columns"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Blog.php:56, ../streamit/inc/Redux_Framework/Options/Woocommerce.php:54
+msgid "Two Columns"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Blog.php:57, ../streamit/inc/Redux_Framework/Options/Woocommerce.php:55
+msgid "Three Columns"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Blog.php:65
+msgid "Post Settings"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Blog.php:66, ../streamit/inc/Redux_Framework/Options/Page.php:545, ../streamit/inc/Redux_Framework/Options/User.php:295
+msgid "Turn on to display the Post "
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Blog.php:68, ../streamit/inc/Redux_Framework/Options/User.php:297, ../streamit/inc/Redux_Framework/Options/Woocommerce.php:90
+msgid "Pagination"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Blog.php:69, ../streamit/inc/Redux_Framework/Options/Blog.php:78, ../streamit/inc/Redux_Framework/Options/Page.php:547, ../streamit/inc/Redux_Framework/Options/Page.php:558, ../streamit/inc/Redux_Framework/Options/User.php:298, ../streamit/inc/Redux_Framework/Options/User.php:308, ../streamit/inc/Redux_Framework/Options/Woocommerce.php:91
+msgid "Load More"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Blog.php:70, ../streamit/inc/Redux_Framework/Options/Page.php:548, ../streamit/inc/Redux_Framework/Options/User.php:299, ../streamit/inc/Redux_Framework/Options/Woocommerce.php:92
+msgid "Infinite Scroll"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Blog.php:77, ../streamit/inc/Redux_Framework/Options/Blog.php:84, ../streamit/inc/Redux_Framework/Options/Page.php:557, ../streamit/inc/Redux_Framework/Options/Page.php:564, ../streamit/inc/Redux_Framework/Options/User.php:307, ../streamit/inc/Redux_Framework/Options/User.php:314
+msgid "Load More button text"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Blog.php:85, ../streamit/inc/Redux_Framework/Options/Page.php:565, ../streamit/inc/Redux_Framework/Options/User.php:315
+msgid "Loading..."
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Blog.php:91
+msgid "Featured Image on Blog Archive Page"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Blog.php:92
+msgid "Turn on to display featured images on the blog or archive pages."
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Blog.php:94, ../streamit/inc/Redux_Framework/Options/Blog.php:129, ../streamit/inc/Redux_Framework/Options/Header.php:354, ../streamit/inc/Redux_Framework/Options/Header.php:412, ../streamit/inc/Redux_Framework/Options/Header.php:532, ../streamit/inc/Redux_Framework/Options/Maintenance.php:37, ../streamit/inc/Redux_Framework/Options/Page.php:49, ../streamit/inc/Redux_Framework/Options/Page.php:116, ../streamit/inc/Redux_Framework/Options/Page.php:144, ../streamit/inc/Redux_Framework/Options/Page.php:173, ../streamit/inc/Redux_Framework/Options/Page.php:202, ../streamit/inc/Redux_Framework/Options/Page.php:247, ../streamit/inc/Redux_Framework/Options/Page.php:307, ../streamit/inc/Redux_Framework/Options/Page.php:427, ../streamit/inc/Redux_Framework/Options/Page.php:457, ../streamit/inc/Redux_Framework/Options/Page.php:469, ../streamit/inc/Redux_Framework/Options/Page.php:481, ../streamit/inc/Redux_Framework/Options/Page.php:493, ../streamit/inc/Redux_Framework/Options/Page.php:535, ../streamit/inc/Redux_Framework/Options/Page.php:632, ../streamit/inc/Redux_Framework/Options/Page.php:644, ../streamit/inc/Redux_Framework/Options/Page.php:675, ../streamit/inc/Redux_Framework/Options/Page.php:686, ../streamit/inc/Redux_Framework/Options/Page.php:705, ../streamit/inc/Redux_Framework/Options/User.php:191, ../streamit/inc/Redux_Framework/Options/User.php:203, ../streamit/inc/Redux_Framework/Options/User.php:215, ../streamit/inc/Redux_Framework/Options/Woocommerce.php:102
+msgid "On"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Blog.php:95, ../streamit/inc/Redux_Framework/Options/Blog.php:130, ../streamit/inc/Redux_Framework/Options/Header.php:355, ../streamit/inc/Redux_Framework/Options/Header.php:413, ../streamit/inc/Redux_Framework/Options/Header.php:533, ../streamit/inc/Redux_Framework/Options/Maintenance.php:38, ../streamit/inc/Redux_Framework/Options/Page.php:50, ../streamit/inc/Redux_Framework/Options/Page.php:117, ../streamit/inc/Redux_Framework/Options/Page.php:145, ../streamit/inc/Redux_Framework/Options/Page.php:174, ../streamit/inc/Redux_Framework/Options/Page.php:203, ../streamit/inc/Redux_Framework/Options/Page.php:248, ../streamit/inc/Redux_Framework/Options/Page.php:308, ../streamit/inc/Redux_Framework/Options/Page.php:428, ../streamit/inc/Redux_Framework/Options/Page.php:458, ../streamit/inc/Redux_Framework/Options/Page.php:470, ../streamit/inc/Redux_Framework/Options/Page.php:482, ../streamit/inc/Redux_Framework/Options/Page.php:494, ../streamit/inc/Redux_Framework/Options/Page.php:536, ../streamit/inc/Redux_Framework/Options/Page.php:633, ../streamit/inc/Redux_Framework/Options/Page.php:645, ../streamit/inc/Redux_Framework/Options/Page.php:676, ../streamit/inc/Redux_Framework/Options/Page.php:687, ../streamit/inc/Redux_Framework/Options/Page.php:706, ../streamit/inc/Redux_Framework/Options/User.php:192, ../streamit/inc/Redux_Framework/Options/User.php:204, ../streamit/inc/Redux_Framework/Options/User.php:216, ../streamit/inc/Redux_Framework/Options/Woocommerce.php:103
+msgid "Off"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Blog.php:105
+msgid "Blog Single Post"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Blog.php:113
+msgid "Blog Single page Setting"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Blog.php:114
+msgid "Choose among these structures (Right Sidebar, Left Sidebar and 1column) for your blog section.<br />To filling these column sections you should go to appearance > widget.<br />And put every widget that you want in these sections."
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Blog.php:118
+msgid "Full Width"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Blog.php:127
+msgid "Turn on to display comments"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Blog.php:140
+msgid "Select Posts to hide featured images"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Color.php:25
+msgid "Color Attribute"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Color.php:28
+msgid "Change the default colors of your site."
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Color.php:34
+msgid "Set Primary Color"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Color.php:35
+msgid "Select primary accent color."
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Color.php:43
+msgid "Set Primary Hover Color"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Color.php:44
+msgid "Select default Primary Hover color"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Color.php:52
+msgid "Set Secondary Color"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Color.php:53
+msgid "Select secondary complementing color."
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Color.php:61
+msgid "Title Color"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Color.php:62
+msgid "Select default Title(Headings) color"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Color.php:71
+msgid "Body Text Color"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Color.php:72
+msgid "Select default body text color"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Color.php:79
+msgid "Link Gradient Color Option"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Color.php:80
+msgid "Select default body Gradient color"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Footer.php:25, ../streamit/inc/Redux_Framework/Options/FourZeroFour.php:102, ../streamit/inc/Redux_Framework/Options/Woocommerce.php:367
+msgid "Footer"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Footer.php:32, ../streamit/inc/Redux_Framework/Options/Footer.php:40, ../streamit/inc/Redux_Framework/Options/Footer.php:50, ../streamit/inc/Redux_Framework/Options/Woocommerce.php:374, ../streamit/inc/Redux_Framework/Options/Woocommerce.php:384
+msgid "Footer Layout"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Footer.php:35, ../streamit/inc/Redux_Framework/Options/Footer.php:109
+msgid "This section contains options for footer."
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Footer.php:42, ../streamit/inc/Redux_Framework/Options/FourZeroFour.php:36, ../streamit/inc/Redux_Framework/Options/Header.php:44, ../streamit/inc/Redux_Framework/Options/Header.php:114, ../streamit/inc/Redux_Framework/Options/Header.php:129, ../streamit/inc/Redux_Framework/Options/Header.php:166, ../streamit/inc/Redux_Framework/Options/Header.php:207, ../streamit/inc/Redux_Framework/Options/Header.php:286, ../streamit/inc/Redux_Framework/Options/Header.php:425, ../streamit/inc/Redux_Framework/Options/Header.php:462, ../streamit/inc/Redux_Framework/Options/Header.php:590, ../streamit/inc/Redux_Framework/Options/Header.php:627, ../streamit/inc/Redux_Framework/Options/Header.php:667, ../streamit/inc/Redux_Framework/Options/Page.php:59, ../streamit/inc/Redux_Framework/Options/Woocommerce.php:272, ../streamit/inc/Redux_Framework/Options/Woocommerce.php:330, ../streamit/inc/Redux_Framework/Options/Woocommerce.php:376
+msgid "Default"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Footer.php:43, ../streamit/inc/Redux_Framework/Options/FourZeroFour.php:37, ../streamit/inc/Redux_Framework/Options/Header.php:45, ../streamit/inc/Redux_Framework/Options/Header.php:167, ../streamit/inc/Redux_Framework/Options/Header.php:208, ../streamit/inc/Redux_Framework/Options/Header.php:287, ../streamit/inc/Redux_Framework/Options/Header.php:463, ../streamit/inc/Redux_Framework/Options/Header.php:628, ../streamit/inc/Redux_Framework/Options/Header.php:668, ../streamit/inc/Redux_Framework/Options/Woocommerce.php:273, ../streamit/inc/Redux_Framework/Options/Woocommerce.php:377
+msgid "Custom"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Footer.php:51, ../streamit/inc/Redux_Framework/Options/Woocommerce.php:385
+msgid "Select the layout variation that you want to use for Footer."
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Footer.php:53, ../streamit/inc/Redux_Framework/Options/FourZeroFour.php:48, ../streamit/inc/Redux_Framework/Options/Header.php:55, ../streamit/inc/Redux_Framework/Options/Woocommerce.php:283, ../streamit/inc/Redux_Framework/Options/Woocommerce.php:387
+msgid "Create"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Footer.php:53, ../streamit/inc/Redux_Framework/Options/FourZeroFour.php:48, ../streamit/inc/Redux_Framework/Options/Header.php:55, ../streamit/inc/Redux_Framework/Options/Woocommerce.php:283, ../streamit/inc/Redux_Framework/Options/Woocommerce.php:387
+msgid "New Layout"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Footer.php:59
+msgid "Display Footer Background Image"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Footer.php:60
+msgid "Display Footer Background Image On All page"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Footer.php:73
+msgid "Choose background image"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Footer.php:76
+msgid "Upload Footer image for your Website."
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Footer.php:82
+msgid "Change Footer Color"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Footer.php:83
+msgid "Turn on to Change Footer Background Color"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Footer.php:94
+msgid "Footer Color"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Footer.php:95
+msgid "Choose Footer Background Color"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Footer.php:106
+msgid "Footer Option"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Footer.php:117, ../streamit/inc/Redux_Framework/Options/Footer.php:227
+msgid "This options only works with Default Footer Layout"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Footer.php:123
+msgid "Display footer Top"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Footer.php:124
+msgid "Display Footer Top On All page"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Footer.php:136
+msgid "Footer Layout Type"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Footer.php:138
+msgid "<br />Choose among these structures (1-column, 2-column, 3-column and 4-column) for your footer section.<br />To fill these column sections you should go to appearance > widget.<br />And add widgets as per your needs."
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Footer.php:140
+msgid "Footer Layout 1"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Footer.php:141
+msgid "Footer Layout 2"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Footer.php:142
+msgid "Footer Layout 3"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Footer.php:143
+msgid "Footer Layout 4"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Footer.php:144
+msgid "Footer Layout 5"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Footer.php:145
+msgid "Footer Layout 6"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Footer.php:153
+msgid "Select alignment for footer 1"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Footer.php:166
+msgid "Select alignment for footer 2"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Footer.php:179
+msgid "Select alignment for footer 3"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Footer.php:192
+msgid "Select alignment for footer 4"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Footer.php:204
+msgid "Select alignment for footer 5"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Footer.php:217
+msgid "Footer Copyright"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Footer.php:233
+msgid "Display Copyrights"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Footer.php:239, ../streamit/inc/Redux_Framework/Options/Header.php:385, ../streamit/inc/Redux_Framework/Options/Header.php:416, ../streamit/inc/Redux_Framework/Options/Maintenance.php:40, ../streamit/inc/Redux_Framework/Options/Page.php:52, ../streamit/inc/Redux_Framework/Options/Page.php:472, ../streamit/inc/Redux_Framework/Options/Page.php:635, ../streamit/inc/Redux_Framework/Options/Page.php:678, ../streamit/inc/Redux_Framework/Options/Page.php:689, ../streamit/inc/Redux_Framework/Options/Page.php:708, ../streamit/inc/Redux_Framework/Options/Woocommerce.php:132
+msgid "no"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Footer.php:244
+msgid "Copyrights Alignment"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Footer.php:258
+msgid "Copyrights Text"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Footer.php:259
+msgid "© 2022 Streamit. All Rights Reserved."
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/FourZeroFour.php:28
+msgid "This section contains options for 404."
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/FourZeroFour.php:34
+msgid "Page Layout"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/FourZeroFour.php:45
+msgid "404 Layout"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/FourZeroFour.php:46
+msgid "Select the layout variation that you want to use for 404 page."
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/FourZeroFour.php:57
+msgid "404 Page Default Banner Image"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/FourZeroFour.php:67
+msgid "404 Page Title"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/FourZeroFour.php:68
+msgid "Oops! This Page is Not Found."
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/FourZeroFour.php:75
+msgid "404 Page Description"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/FourZeroFour.php:76
+msgid "The requested page does not exist."
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/FourZeroFour.php:83
+msgid "404 Page Button"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/FourZeroFour.php:90, ../streamit/inc/Redux_Framework/Options/FourZeroFour.php:100, ../streamit/inc/Redux_Framework/Options/Header.php:578
+msgid "Enable"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/FourZeroFour.php:91, ../streamit/inc/Redux_Framework/Options/FourZeroFour.php:101, ../streamit/inc/Redux_Framework/Options/Header.php:579
+msgid "Disable"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/FourZeroFour.php:92, ../streamit/inc/Redux_Framework/Options/Header.php:25, ../streamit/inc/Redux_Framework/Options/Woocommerce.php:262
+msgid "Header"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/FourZeroFour.php:93
+msgid "Enable / disable header on 404 page"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/FourZeroFour.php:103
+msgid "Enable / disable footer on 404 page"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/General.php:25
+msgid "General"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/General.php:32
+msgid "Body Layout"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/General.php:42
+msgid "This Container Width Option Convert PX into EM Unit"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/General.php:48
+msgid "Grid Container Width"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/General.php:49
+msgid "Adjust Your Site Container Width Wtih Help Of Above Opiton."
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/General.php:60
+msgid "Body Background"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/General.php:61
+msgid "Select this option for body background."
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/General.php:73
+msgid "Choose body background color"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/General.php:86
+msgid "Choose body background image."
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/General.php:92
+msgid "Back to Top"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/General.php:100
+msgid "Display back to top button"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/General.php:110, ../streamit/inc/Redux_Framework/Options/General.php:119
+msgid "Favicon"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/General.php:121
+msgid "Upload logo image for your Website. Otherwise site title will be displayed in place of logo."
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Header.php:32, ../streamit/inc/Redux_Framework/Options/Header.php:41, ../streamit/inc/Redux_Framework/Options/Header.php:52, ../streamit/inc/Redux_Framework/Options/Header.php:86, ../streamit/inc/Redux_Framework/Options/Woocommerce.php:269, ../streamit/inc/Redux_Framework/Options/Woocommerce.php:280, ../streamit/inc/Redux_Framework/Options/Woocommerce.php:313
+msgid "Header Layout"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Header.php:35
+msgid "This section contains options for Menu ."
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Header.php:42, ../streamit/inc/Redux_Framework/Options/Woocommerce.php:270
+msgid "Select the variation for header "
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Header.php:47, ../streamit/inc/Redux_Framework/Options/Header.php:134, ../streamit/inc/Redux_Framework/Options/Header.php:170, ../streamit/inc/Redux_Framework/Options/Header.php:211, ../streamit/inc/Redux_Framework/Options/Header.php:290, ../streamit/inc/Redux_Framework/Options/Header.php:430, ../streamit/inc/Redux_Framework/Options/Header.php:465, ../streamit/inc/Redux_Framework/Options/Header.php:595, ../streamit/inc/Redux_Framework/Options/Header.php:630, ../streamit/inc/Redux_Framework/Options/Header.php:670, ../streamit/inc/Redux_Framework/Options/Woocommerce.php:275
+msgid "default"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Header.php:53, ../streamit/inc/Redux_Framework/Options/Header.php:87, ../streamit/inc/Redux_Framework/Options/Woocommerce.php:281, ../streamit/inc/Redux_Framework/Options/Woocommerce.php:314
+msgid "Select the layout variation that you want to use for header layout."
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Header.php:61, ../streamit/inc/Redux_Framework/Options/Woocommerce.php:289, ../streamit/inc/Redux_Framework/Options/Woocommerce.php:340
+msgid "Header Layout Position"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Header.php:63, ../streamit/inc/Redux_Framework/Options/Woocommerce.php:291, ../streamit/inc/Redux_Framework/Options/Woocommerce.php:342
+msgid "Horizontal"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Header.php:64, ../streamit/inc/Redux_Framework/Options/Woocommerce.php:292, ../streamit/inc/Redux_Framework/Options/Woocommerce.php:343
+msgid "Vertical"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Header.php:76, ../streamit/inc/Redux_Framework/Options/Woocommerce.php:304, ../streamit/inc/Redux_Framework/Options/Woocommerce.php:355
+msgid "Vertical header width"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Header.php:101
+msgid "Header container"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Header.php:103
+msgid "Full width"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Header.php:104
+msgid "Container"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Header.php:112, ../streamit/inc/Redux_Framework/Options/Woocommerce.php:328
+msgid "Header Position"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Header.php:115, ../streamit/inc/Redux_Framework/Options/Woocommerce.php:331
+msgid "Under"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Header.php:116, ../streamit/inc/Redux_Framework/Options/Woocommerce.php:332
+msgid "Over"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Header.php:126, ../streamit/inc/Redux_Framework/Options/Header.php:422, ../streamit/inc/Redux_Framework/Options/Header.php:587
+msgid "Background"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Header.php:127
+msgid "Select the variation for header background"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Header.php:130, ../streamit/inc/Redux_Framework/Options/Header.php:426, ../streamit/inc/Redux_Framework/Options/Header.php:591
+msgid "Color"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Header.php:131, ../streamit/inc/Redux_Framework/Options/Header.php:427, ../streamit/inc/Redux_Framework/Options/Header.php:592
+msgid "Image"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Header.php:132, ../streamit/inc/Redux_Framework/Options/Header.php:428, ../streamit/inc/Redux_Framework/Options/Header.php:593
+msgid "Transparent"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Header.php:141, ../streamit/inc/Redux_Framework/Options/Header.php:436, ../streamit/inc/Redux_Framework/Options/Header.php:602
+msgid "Set Background Color"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Header.php:151, ../streamit/inc/Redux_Framework/Options/Header.php:446, ../streamit/inc/Redux_Framework/Options/Header.php:612
+msgid "Upload Image"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Header.php:154
+msgid "Upload background image for header."
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Header.php:163, ../streamit/inc/Redux_Framework/Options/Header.php:624
+msgid "Menu Color Options"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Header.php:164
+msgid "Select Menu color ."
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Header.php:176
+msgid "Menu Color"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Header.php:185
+msgid "Active Menu Color"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Header.php:194
+msgid "Menu Hover Color"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Header.php:204, ../streamit/inc/Redux_Framework/Options/Header.php:663
+msgid "Submenu Color Options"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Header.php:205
+msgid "Select submenu color."
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Header.php:217, ../streamit/inc/Redux_Framework/Options/Header.php:676
+msgid "Submenu Color"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Header.php:226, ../streamit/inc/Redux_Framework/Options/Header.php:685
+msgid "Active Submenu Color"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Header.php:235, ../streamit/inc/Redux_Framework/Options/Header.php:694
+msgid "Submenu Hover Color"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Header.php:244, ../streamit/inc/Redux_Framework/Options/Header.php:703
+msgid "Submenu Background Color"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Header.php:255, ../streamit/inc/Redux_Framework/Options/Header.php:711
+msgid "Submenu Background Active Color"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Header.php:266, ../streamit/inc/Redux_Framework/Options/Header.php:719
+msgid "Submenu Background Hover Color"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Header.php:283
+msgid "Responsive Menu Color"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Header.php:284
+msgid "Select menu color for responsive mode."
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Header.php:296
+msgid "Toggle button color"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Header.php:305
+msgid "Toggle button background color"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Header.php:314
+msgid "Responsive menu color"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Header.php:323
+msgid "Responsive menu hover color"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Header.php:332
+msgid "Responsive menu background color"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Header.php:341
+msgid "Responsive menu active background color"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Header.php:351
+msgid "Display Search Icon"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Header.php:352
+msgid "Turn on to display the Search in header."
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Header.php:365
+msgid "Display User Icon"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Header.php:378
+msgid "Display Cart Icon"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Header.php:379
+msgid "Turn on to Show Cart On Default Header"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Header.php:393
+msgid "Header Top"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Header.php:403, ../streamit/inc/Redux_Framework/Options/Header.php:569, ../streamit/inc/Redux_Framework/Options/Logo.php:35, ../streamit/inc/Redux_Framework/Options/User.php:50
+msgid "This options only works with Default Header Layout"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Header.php:409
+msgid "Display Header Top"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Header.php:410
+msgid "Turn on to display top header Email, Phone, Social Media."
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Header.php:450
+msgid "Upload background image for top header."
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Header.php:459
+msgid "Text / Icon color options"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Header.php:460
+msgid "Select text / icon color for normal and hover ."
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Header.php:470
+msgid "Choose text color for top header."
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Header.php:479
+msgid "Choose text hover color for top header."
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Header.php:488
+msgid "Choose Icon color for top header."
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Header.php:497
+msgid "Choose Icon hover color for top header."
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Header.php:512
+msgid "+0123456789"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Header.php:521
+msgid "custom error message"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Header.php:522
+msgid "support@example.com"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Header.php:528
+msgid "Email/Phone on Header"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Header.php:530
+msgid "Turn on to display the Email and Phone number in header menu."
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Header.php:541, ../streamit/inc/Redux_Framework/Options/SocialMedia.php:25
+msgid "Social Media"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Header.php:542
+msgid "Turn on to display Social Media in top header."
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Header.php:558, ../streamit/inc/Redux_Framework/Options/Header.php:574
+msgid "Sticky Header"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Header.php:561
+msgid "This section contains options for sticky header menu and background color."
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Header.php:575
+msgid "Enable to make header sticky."
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Header.php:588
+msgid "Select the variation for sticky header background"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Header.php:615
+msgid "Upload background image for sticky header."
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Header.php:625
+msgid "Select Menu color for sticky."
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Header.php:636
+msgid "Menu color"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Header.php:645
+msgid "Sticky header active menu color"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Header.php:654
+msgid "Menu hover color"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Header.php:664
+msgid "Select submenu color for sticky."
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Layout.php:25
+msgid "Layout"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Layout.php:33
+msgid "Select Layout Mode"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Layout.php:34
+msgid "Select a Mode to quickly apply pre-defined"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Layout.php:45
+msgid "Show Style Switcher"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Layout.php:46
+msgid "The style switcher is only for preview on front-end"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Loader.php:25
+msgid "Loader"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Loader.php:33
+msgid "streamit Loader"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Loader.php:45
+msgid "Loader Background Color"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Loader.php:47
+msgid "Choose Loader Background Color"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Loader.php:56
+msgid "Add GIF image for loader"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Loader.php:60
+msgid "Upload Loader GIF image for your Website."
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Loader.php:69
+msgid "Loader (Width/Height) Option"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Loader.php:70, ../streamit/inc/Redux_Framework/Options/Logo.php:97, ../streamit/inc/Redux_Framework/Options/Logo.php:128
+msgid "Allows you to choose width, height, and/or unit."
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Loader.php:71, ../streamit/inc/Redux_Framework/Options/Logo.php:98, ../streamit/inc/Redux_Framework/Options/Logo.php:129
+msgid "You can enable or disable any piece of this field. Width, Height, or Units."
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Logo.php:25, ../streamit/inc/Redux_Framework/Options/Logo.php:74, ../streamit/inc/Redux_Framework/Options/Logo.php:83
+msgid "Logo"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Logo.php:41
+msgid "Select Logo Type"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Logo.php:42
+msgid "Select either Text or image for your Logo."
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Logo.php:55
+msgid "Enter the text to be used instead of the logo image"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Logo.php:57
+msgid "Please enter correct value"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Logo.php:58
+msgid "Streamit"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Logo.php:65
+msgid "Choose text color"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Logo.php:87, ../streamit/inc/Redux_Framework/Options/Logo.php:118
+msgid "Upload Logo image for your Website. Otherwise site title will be displayed in place of Logo."
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Logo.php:95
+msgid "Logo (Width/Height) Option"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Logo.php:105, ../streamit/inc/Redux_Framework/Options/Logo.php:114
+msgid "Mobile Logo"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Logo.php:126
+msgid "Mobile Logo (Width/Height) Option"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Maintenance.php:25
+msgid "Maintenance"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Maintenance.php:28
+msgid ""
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Maintenance.php:34
+msgid "On/Off Maintenance or Coming Soon mode"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Maintenance.php:35
+msgid "Turn on to active Maintenance or Coming Soon mode."
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Maintenance.php:46
+msgid "Maintenance Mode"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Maintenance.php:59
+msgid "Maintenance Default Background Image"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Maintenance.php:63, ../streamit/inc/Redux_Framework/Options/Maintenance.php:90
+msgid "Upload background image for your Website. Otherwise blank field will be displayed in place of this section."
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Maintenance.php:69
+msgid "Maintenance Title"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Maintenance.php:71
+msgid "Sorry,we are down for maintenance"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Maintenance.php:77
+msgid "Maintenance Description"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Maintenance.php:79
+msgid "We will be back shortly"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Maintenance.php:86
+msgid "Coming Soon Default Background Image"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Maintenance.php:96
+msgid "Coming Soon Title"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Maintenance.php:98
+msgid "Coming Soon"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Maintenance.php:104
+msgid "Coming Soon Description"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Maintenance.php:106
+msgid "We will be back with new and professional Ideas"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Maintenance.php:112, ../streamit/inc/Redux_Framework/Options/Maintenance.php:121
+msgid "Coming Soon Date"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Maintenance.php:114
+msgid "This is the description field, again good for additional info."
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:25
+msgid "Page Settings"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:38
+msgid "Trailer Link"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:46
+msgid "Show Trailer Link"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:47
+msgid "Turn on to display the trailer link details page"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:60
+msgid "Thumbnail"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:62
+msgid "Select Style"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:71, ../streamit/inc/Redux_Framework/Options/Page.php:221, ../streamit/inc/Redux_Framework/Options/Page.php:334, ../streamit/inc/Redux_Framework/Options/Page.php:714
+msgid "Select Post Type"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:72
+msgid "Select specific Post to display the trailer link"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:87
+msgid "Trailer Link button Icon"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:98
+msgid "Trailer Link Text"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:113
+msgid "Show Cast"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:114
+msgid "Turn on to display the Cast "
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:127
+msgid "Cast button title"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:134
+msgid "Recommeded"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:141
+msgid "Show Recommended"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:142
+msgid "Turn on to display the Recommended "
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:155
+msgid "Recommended button title"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:170
+msgid "Show Related Videos"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:171
+msgid "Turn on to display the Related Videos"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:184, ../streamit/inc/Redux_Framework/Options/Page.php:258
+msgid "Related button title"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:192
+msgid "Related Product"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:199
+msgid "Show Related Products"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:200
+msgid "Turn on to display the Related Products"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:213
+msgid "Related Product Heading"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:222, ../streamit/inc/Redux_Framework/Options/Page.php:335
+msgid "Select specific Post to display upcomming List"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:244
+msgid "Show Related Movies"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:245
+msgid "Turn on to display the Related Movies"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:264
+msgid "Show All Related Movies"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:270, ../streamit/inc/Redux_Framework/Options/Page.php:355, ../streamit/inc/Redux_Framework/Options/Page.php:389
+msgid "Selected"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:283
+msgid "Select Movies For Related List"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:284
+msgid "Use Related movies on a page which you selected.(Note:If the movie is not selected then all the movies will appear)"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:296
+msgid "Upcoming"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:304
+msgid "Show Upcoming"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:305
+msgid "Turn on to display the Upcoming "
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:318, ../streamit/inc/Redux_Framework/Options/Page.php:326
+msgid "Upcomming button title"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:348
+msgid "Show All Upcomming Movies"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:370
+msgid "Select Movies For Upcomming List"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:371
+msgid "Use upcomming movies on a page which you selected.(Note:If the movie is not selected then all the movies will appear)"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:382
+msgid "Show All Upcomming Videos"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:404
+msgid "Select Videos For Upcomming List"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:405
+msgid "Use upcomming videos on a page which you selected.(Note:If the video is not selected then all the videos will appear)"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:424
+msgid "Show Latest Episodes"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:425
+msgid "Turn on to display the Latest Episodes "
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:438
+msgid "Latest Episodes button title"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:454
+msgid "Show Movie Comments"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:455, ../streamit/inc/Redux_Framework/Options/Page.php:467, ../streamit/inc/Redux_Framework/Options/Page.php:479, ../streamit/inc/Redux_Framework/Options/Page.php:491
+msgid "Turn on to display the Comments "
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:466
+msgid "Show Tv-Show Comments"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:478
+msgid "Show Episode Comments"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:490
+msgid "Show Video Comments"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:503
+msgid "Starring/Genres/Tags"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:511, ../streamit/inc/Redux_Framework/Options/Page.php:512
+msgid "Starring"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:518
+msgid "Genres title"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:519
+msgid "Genres"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:526
+msgid "Tag title"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:527
+msgid "Tags"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:532
+msgid "Show Tags "
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:533
+msgid "Turn on to display the Tags "
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:544
+msgid "Genres, Tags , Categories Page Setting"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:550
+msgid "load_more"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:571
+msgid "Item Per Page"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:580
+msgid "Big Heading Texture"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:588
+msgid "Set Heading Texture Background Type"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:600
+msgid "Set Heading Texture Image"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:603
+msgid "Upload Image for your heading texture background."
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:610
+msgid "Set Heading Texture Color"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:621
+msgid " Rating / Play Button"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:629
+msgid "Display IMDB Rating Out Of 10"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:630
+msgid "Turn on to display IMDB rating Out of 10 "
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:641
+msgid "Display Single Star"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:642
+msgid "Turn on to display single star"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:653
+msgid "Play Button Text"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:654
+msgid "Enter Text For Changing Button Text In Inner Page  "
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:665
+msgid "View Counter"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:672
+msgid "Display View Count On Single Page"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:673
+msgid "This option Provide show or Hide View Count In single Page"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:683
+msgid "Add Set Edit item view counter"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:684
+msgid "This option Provide to set Initialize Counter For Perticular Item show in (Movies,Tv-shows,Videos)Edit item of Tv show,Movies,Videos,Episode"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:695
+msgid "Download Button"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:702
+msgid "Allow Download ? "
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:703
+msgid " Choose if you want to allow users to download button"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:715
+msgid "Select specific Post to display Download Button"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:727
+msgid "Person/Cast Detail Page"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:735
+msgid "Most Viewer"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:742
+msgid "Show List"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:743
+msgid "Turn on to display the most viewer post"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:754, ../streamit/inc/Redux_Framework/Options/Page.php:769
+msgid "Heading"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:762
+msgid "Related Cast"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:775
+msgid "Show Infinite Scroll"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Page.php:776
+msgid "Turn on to display the Infinite Scroll"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/SocialMedia.php:33
+msgid "Social Media Option"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/SocialMedia.php:34
+msgid "Enter social media url."
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Typography.php:25
+msgid "Typography"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Typography.php:28
+msgid "This section contains typography related options."
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Typography.php:34
+msgid "Do you want to change fonts?"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Typography.php:43
+msgid "Body Font"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Typography.php:44, ../streamit/inc/Redux_Framework/Options/Typography.php:64, ../streamit/inc/Redux_Framework/Options/Typography.php:83, ../streamit/inc/Redux_Framework/Options/Typography.php:102, ../streamit/inc/Redux_Framework/Options/Typography.php:120, ../streamit/inc/Redux_Framework/Options/Typography.php:138, ../streamit/inc/Redux_Framework/Options/Typography.php:156
+msgid "Select the font."
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Typography.php:55
+msgid "Poppins"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Typography.php:63
+msgid "H1 Font"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Typography.php:74, ../streamit/inc/Redux_Framework/Options/Typography.php:93, ../streamit/inc/Redux_Framework/Options/Typography.php:112, ../streamit/inc/Redux_Framework/Options/Typography.php:130, ../streamit/inc/Redux_Framework/Options/Typography.php:148, ../streamit/inc/Redux_Framework/Options/Typography.php:166
+msgid "PT+Sans"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Typography.php:82
+msgid "H2 Font"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Typography.php:101
+msgid "H3 Font"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Typography.php:119
+msgid "H4 Font"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Typography.php:137
+msgid "H5 Font"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Typography.php:155
+msgid "H6 Font"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/User.php:25
+msgid "User Account"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/User.php:40
+msgid "User Account Settings"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/User.php:63
+msgid "SignUp button title"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/User.php:72
+msgid "Select Page For SignUp"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/User.php:73
+msgid "Use [iqonic_register_form] Shortcode on a page which you sleceted"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/User.php:80
+msgid "SignUp button Icon"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/User.php:97
+msgid "SignIn button title"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/User.php:106
+msgid "Select Page For SignIn"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/User.php:107
+msgid "Use [iqonic_login] Shortcode on a page which you sleceted"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/User.php:114
+msgid "SignIn button Icon"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/User.php:122, ../streamit/inc/Redux_Framework/Options/User.php:141
+msgid "Logout"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/User.php:131
+msgid "Logout Button Icon"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/User.php:140
+msgid "Logout Button title"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/User.php:154
+msgid "Profile button title"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/User.php:163
+msgid "Select Page For Profile"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/User.php:164
+msgid "Use [iqonic_user_profile] Shortcode on a page which you sleceted"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/User.php:171
+msgid "Profile button Icon"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/User.php:181
+msgid "SideIcons Settings"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/User.php:188
+msgid "Show Follow Icon"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/User.php:189
+msgid "Turn on to display the Social Icon"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/User.php:200
+msgid "Show Like Icon"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/User.php:201
+msgid "Turn on to display the Like Icon"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/User.php:212
+msgid "Show Watchlist"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/User.php:213
+msgid "Turn on to display the Watchlist "
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/User.php:226
+msgid "Watchlist button title"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/User.php:227
+msgid "Watch List"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/User.php:236
+msgid "Select Page For Watchlist"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/User.php:237
+msgid "Use [iqonic_user_watchlist] Shortcode on a page which you sleceted"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/User.php:245
+msgid "Watchlist button Icon"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/User.php:256
+msgid "View all Settings"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/User.php:266
+msgid "Choose Terms&Conditons Page"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/User.php:267
+msgid "Select Page that you want to display the terms and conditions"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/User.php:272
+msgid "View All button title"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/User.php:273
+msgid "View All"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/User.php:280
+msgid "Select Page For View All"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/User.php:281
+msgid "Select Page that you want to display the View All Data"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/User.php:288
+msgid "Selected Page Require ShortCode For Filtered Content : [iqonic_view_all]"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/User.php:294
+msgid "Viewall, Watchlist page Settings"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/User.php:321
+msgid "Post Per Page"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/User.php:328
+msgid "Order By"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/User.php:330
+msgid "Descending"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/User.php:331
+msgid "Ascending"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Woocommerce.php:25
+msgid "WooCommerce "
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Woocommerce.php:32
+msgid "Shop Page"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Woocommerce.php:39
+msgid "Shop page Setting"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Woocommerce.php:40
+msgid "Choose among these structures (Product Listing, Product Grid) for your shop section.<br />To filling these column sections you should go to appearance > widget.<br />And put every widget that you want in these sections."
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Woocommerce.php:42
+msgid "Product Listing"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Woocommerce.php:43
+msgid "Product Grid "
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Woocommerce.php:50
+msgid "Shop Grid page Setting"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Woocommerce.php:56
+msgid "Four Columns"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Woocommerce.php:64
+msgid "Shop List page Setting"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Woocommerce.php:76
+msgid "Set Product Per Page"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Woocommerce.php:77
+msgid "Here This option provide set post per paged item"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Woocommerce.php:87
+msgid "Woocommerce Product Load Type"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Woocommerce.php:88
+msgid "This Option Product The Shop page Product Load Type"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Woocommerce.php:99
+msgid "Show Cart"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Woocommerce.php:100
+msgid "Turn on to Show Cart At All Page or Show Only In Woocommerce Pages"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Woocommerce.php:111
+msgid "Woocommerce Payment Gateway Title"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Woocommerce.php:112
+msgid "Add Text To Show Your Custom Woocommerce Payment Gateway Title"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Woocommerce.php:113
+msgid "Woocommerce Payment Gateway"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Woocommerce.php:118
+msgid "Product Page"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Woocommerce.php:126
+msgid "Display Banner on Product Page"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Woocommerce.php:127
+msgid "This Option Display The Banner Of The Product"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Woocommerce.php:137
+msgid "Display Related Product On Single Page"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Woocommerce.php:138
+msgid "This Option Display RElated Product On Single Page"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Woocommerce.php:149
+msgid "Products Setting"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Woocommerce.php:158
+msgid "Display Name"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Woocommerce.php:159
+msgid "Here This option provide Name Of The Product"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Woocommerce.php:170
+msgid "Display Price"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Woocommerce.php:171
+msgid "Here This option Display The Price"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Woocommerce.php:182
+msgid "Display Rating"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Woocommerce.php:183
+msgid "Display The Ratings"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Woocommerce.php:195, ../streamit/inc/Redux_Framework/Options/Woocommerce.php:196
+msgid "Display AddToCart Icon"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Woocommerce.php:207
+msgid "Display Wishlist Icon"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Woocommerce.php:208
+msgid "Display The Wishlist Icon"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Woocommerce.php:220, ../streamit/inc/Redux_Framework/Options/Woocommerce.php:221
+msgid "Display QuickView Icon"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Woocommerce.php:233
+msgid " Sale Badge Color"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Woocommerce.php:234
+msgid "Color Of The Sale Badge"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Woocommerce.php:242
+msgid " New Badge Color"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Woocommerce.php:243
+msgid "Color Of The New Badge"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Woocommerce.php:252
+msgid " Sold Badge Color"
+msgstr ""
+
+#: ../streamit/inc/Redux_Framework/Options/Woocommerce.php:253
+msgid "Color Of The Sold BAdge"
+msgstr ""
+
+#: ../streamit/inc/Merlin/vendor/proteusthemes/wp-content-importer-v2/src/Importer.php:55
+msgid "The XMLReader class is missing! Please install the XMLReader PHP extension on your server"
+msgstr ""
+
+#: ../streamit/inc/Merlin/vendor/proteusthemes/wp-content-importer-v2/src/Importer.php:68
+msgid "Could not open the XML file for parsing!"
+msgstr ""
+
+#: ../streamit/inc/Merlin/vendor/proteusthemes/wp-content-importer-v2/src/Importer.php:248
+msgid "Content import start error: "
+msgstr ""
+
+#: ../streamit/inc/Merlin/vendor/proteusthemes/wp-content-importer-v2/src/Importer.php:280, ../streamit/inc/Merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:173, ../streamit/inc/Merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:291, ../streamit/inc/Merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:375
+msgid "This WXR file (version %s) is newer than the importer (version %s) and may not be supported. Please consider updating."
+msgstr ""
+
+#: ../streamit/inc/Merlin/vendor/proteusthemes/wp-content-importer-v2/src/Importer.php:504
+msgid "New AJAX call!"
+msgstr ""
+
+#: ../streamit/inc/Merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:135
+msgid "Could not open the file for parsing"
+msgstr ""
+
+#: ../streamit/inc/Merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:525
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: ../streamit/inc/Merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:588
+msgid "Invalid author mapping"
+msgstr ""
+
+#: ../streamit/inc/Merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:689
+msgid "Cannot import auto-draft posts"
+msgstr ""
+
+#: ../streamit/inc/Merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:781
+msgid "Failed to import \"%s\": Invalid post type %s"
+msgstr ""
+
+#: ../streamit/inc/Merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:791
+msgid "%s \"%s\" already exists."
+msgstr ""
+
+#: ../streamit/inc/Merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:869
+msgid "Skipping attachment \"%s\", fetching attachments disabled"
+msgstr ""
+
+#: ../streamit/inc/Merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:883
+msgid "Failed to import \"%s\" (%s)"
+msgstr ""
+
+#: ../streamit/inc/Merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:915, ../streamit/inc/Merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1833
+msgid "Imported \"%s\" (%s)"
+msgstr ""
+
+#: ../streamit/inc/Merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:920
+msgid "Post %d remapped to %d"
+msgstr ""
+
+#: ../streamit/inc/Merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:960
+msgid "Failed to import term: %s - %s"
+msgstr ""
+
+#: ../streamit/inc/Merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1105
+msgid "Invalid file type"
+msgstr ""
+
+#: ../streamit/inc/Merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1604
+msgid "Failed to import user \"%s\""
+msgstr ""
+
+#: ../streamit/inc/Merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1625
+msgid "Imported user \"%s\""
+msgstr ""
+
+#: ../streamit/inc/Merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1629
+msgid "User %d remapped to %d"
+msgstr ""
+
+#: ../streamit/inc/Merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1794
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: ../streamit/inc/Merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1838
+msgid "Term %d remapped to %d"
+msgstr ""
+
+#: ../streamit/inc/Merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1906
+msgid "Meta for term_id %d : %s => %s ; successfully added!"
+msgstr ""
+
+#: ../streamit/inc/Merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1897
+msgid "Failed to add metakey: %s, metavalue: %s to term_id: %d"
+msgstr ""
+
+#: ../streamit/inc/Merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1958
+msgid "Remote server returned %1$d %2$s for %3$s"
+msgstr ""
+
+#: ../streamit/inc/Merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1980
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: ../streamit/inc/Merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1986
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: ../streamit/inc/Merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2011
+msgid "Running post-processing for post %d"
+msgstr ""
+
+#: ../streamit/inc/Merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2024
+msgid "Could not find the post parent for \"%s\" (post #%d)"
+msgstr ""
+
+#: ../streamit/inc/Merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2029
+msgid "Post %d was imported with parent %d, but could not be found"
+msgstr ""
+
+#: ../streamit/inc/Merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2043
+msgid "Could not find the author for \"%s\" (post #%d)"
+msgstr ""
+
+#: ../streamit/inc/Merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2048
+msgid "Post %d was imported with author \"%s\", but could not be found"
+msgstr ""
+
+#: ../streamit/inc/Merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2074
+msgid "Post %d was marked for post-processing, but none was required."
+msgstr ""
+
+#: ../streamit/inc/Merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2085
+msgid "Could not update \"%s\" (post #%d) with mapped data"
+msgstr ""
+
+#: ../streamit/inc/Merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2130
+msgid "Could not find the menu object for \"%s\" (post #%d)"
+msgstr ""
+
+#: ../streamit/inc/Merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2135
+msgid "Post %d was imported with object \"%d\" of type \"%s\", but could not be found"
+msgstr ""
+
+#: ../streamit/inc/Merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2157
+msgid "Could not find the comment parent for comment #%d"
+msgstr ""
+
+#: ../streamit/inc/Merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2161
+msgid "Comment %d was imported with parent %d, but could not be found"
+msgstr ""
+
+#: ../streamit/inc/Merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2175
+msgid "Could not find the author for comment #%d"
+msgstr ""
+
+#: ../streamit/inc/Merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2179
+msgid "Comment %d was imported with author %d, but could not be found"
+msgstr ""
+
+#: ../streamit/inc/Merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2196
+msgid "Could not update comment #%d with mapped data"
+msgstr ""
+
+#: ../streamit/inc/Merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2227
+msgid "Faulty term_id provided in terms-to-be-remapped array %s"
+msgstr ""
+
+#: ../streamit/inc/Merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2237
+msgid "No taxonomy provided in terms-to-be-remapped array for term #%d"
+msgstr ""
+
+#: ../streamit/inc/Merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2247
+msgid "No parent_slug identified in remapping-array for term: %d"
+msgstr ""
+
+#: ../streamit/inc/Merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2255
+msgid "The term(%d)\"s parent_slug (%s) is not found in the remapping-array."
+msgstr ""
+
+#: ../streamit/inc/Merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2269
+msgid "No data returned by get_term_by for term_id #%d"
+msgstr ""
+
+#: ../streamit/inc/Merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2288
+msgid "Could not update \"%s\" (term #%d) with mapped data"
+msgstr ""
+
+#: ../streamit/inc/Merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2298
+msgid "Term %d was successfully updated with parent %d"
+msgstr ""
+
+#: ../streamit/inc/Merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2333
+msgid "Starting remapping of featured images"
+msgstr ""
+
+#: ../streamit/inc/Merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2342
+msgid "Remapping featured image ID %d to new ID %d for post ID %d"
+msgstr ""
